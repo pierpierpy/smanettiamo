@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+*.egg-info/
+.ipynb_checkpoints/
+.DS_Store
+
+# configurazione locale della webcam (copia webcam.example.toml)
+webcam/webcam.toml
+
+# scaricato dal notebook la prima volta
+jev-like/assets/*.mp3
+*.wav

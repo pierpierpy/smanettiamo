@@ -1,0 +1,13 @@
+# Facoltativo. Senza questo file, webcam.start() usa la camera del Mac.
+# Per usarlo: copia questo file in webcam.toml (git lo ignora) e cambia i valori.
+
+default = "mac"        # sorgente usata da webcam.start()
+port = 8090
+
+[sources.mac]          # camera del Mac o camera USB (indice del dispositivo)
+type = "opencv"
+device = 0
+
+[sources.droidcam]     # app DroidCam sul telefono: usa l'indirizzo che l'app mostra
+type = "mjpeg"
+url = "http://<IP-DEL-TELEFONO>:4747/video"

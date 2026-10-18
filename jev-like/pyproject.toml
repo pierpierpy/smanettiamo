@@ -1,0 +1,34 @@
+[project]
+name = "jev-like"
+version = "0.1.0"
+description = "Kev (a JEV-style decision model) with an image encoder, applied to a live webcam"
+requires-python = ">=3.12,<3.14"
+dependencies = [
+    "datasets>=5.0,<6",
+    "huggingface-hub",
+    "ipykernel>=7.3,<8",
+    "ipython>=9.17,<10",
+    "ipywidgets>=8.1,<9",
+    "jupyter-server-proxy>=4.6,<5",
+    "jupyterlab>=4.6,<5",
+    "kev",
+    "numpy>=2.5,<3",
+    "pillow>=12,<13",
+    "safetensors>=0.8,<1",
+    "soundfile>=0.14,<1",
+    "torch>=2.6,<2.9",
+    "transformers>=5.17,<6",
+    "yt-webcam[opencv]",
+]
+
+[build-system]
+requires = ["setuptools>=77"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools]
+package-dir = { "" = "src" }
+py-modules = ["kev_image"]
+
+[tool.uv.sources]
+kev = { git = "https://github.com/jaredpalmer/kev", rev = "5e42a7a03f28134853dd3ff77461457e921e5ec1" }
+yt-webcam = { path = "../webcam", editable = true }

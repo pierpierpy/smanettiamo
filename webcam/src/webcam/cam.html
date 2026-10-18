@@ -1,0 +1,22 @@
+<!doctype html>
+<title>webcam</title>
+<body style="margin:0;background:#000;overflow:hidden">
+<img id="video" style="width:100vw;height:100vh;object-fit:contain">
+<script>
+// One frame at a time (not the MJPEG /stream), so the page also works through the JupyterLab proxy.
+// Where the frames come from depends on how this page was opened; try each address until one answers:
+//   ""                          served by the webcam server itself (http://localhost:8090/)
+//   "http://localhost:8090/"    opened as a file, or from another server (needs localhost:8090 to reach the webcam)
+//   "/proxy/8090/"              opened from JupyterLab, through its proxy
+const bases = ["", "http://localhost:8090/", "/proxy/8090/"];
+let b = 0;
+const video = document.getElementById("video");
+function nextFrame() {
+  const img = new Image();
+  img.onload = () => { video.src = img.src; setTimeout(nextFrame, 30); };
+  img.onerror = () => { b = (b + 1) % bases.length; setTimeout(nextFrame, 300); };
+  img.src = bases[b] + "frame.jpg?" + Date.now();
+}
+nextFrame();
+</script>
+</body>
