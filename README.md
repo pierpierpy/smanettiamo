@@ -44,24 +44,6 @@ Usi il terminale solo due volte. Poi lavori nel notebook.
 
 Per i dettagli, leggi il README del progetto.
 
-## Perché ottieni lo stesso ambiente dell'autore
-
-- Il file `uv.lock` di ogni progetto blocca la versione esatta di ogni libreria.
-- Il file `.python-version` sceglie Python 3.12. `uv` lo scarica se manca.
-- Kev è bloccato su un commit preciso del repo [jaredpalmer/kev](https://github.com/jaredpalmer/kev).
-
-## Struttura
-
-```
-smanettiamo/
-├── jev-like/              progetto su JEV (Kev)
-├── llm-representation/    progetto su come i modelli rappresentano testo e immagini
-├── webcam/                piccolo server per la camera, usato dai notebook
-├── data/imgs/             foto di esempio
-├── AGENTS.md              istruzioni per un agente AI
-└── LICENSE
-```
-
 ## Webcam
 
 La camera serve solo nelle sezioni "live". Il notebook la avvia da solo con `webcam.start()`.
