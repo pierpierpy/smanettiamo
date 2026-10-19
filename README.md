@@ -1,6 +1,6 @@
 # smanettiamo
 
-Questa repo contiene due progetti dei miei video su YouTube.
+Questa repo contiene i progetti dei miei video su YouTube.
 Ogni progetto è un notebook Jupyter. Apri il notebook, esegui le celle e guarda cosa succede.
 
 | Cartella | Di cosa parla | Notebook |
