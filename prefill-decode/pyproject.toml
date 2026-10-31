@@ -1,0 +1,18 @@
+[project]
+name = "prefill-decode"
+version = "0.1.0"
+description = "Prefill vs decode, KV cache and batched generation with MLX (Apple Silicon)"
+requires-python = ">=3.12,<3.14"
+dependencies = [
+    "ipykernel>=7.3,<8",
+    "ipython>=9.17,<10",
+    "ipywidgets>=8.1,<9",
+    "jupyterlab>=4.6,<5",
+    "matplotlib>=3.11,<4",
+    "mlx>=0.32,<0.33",
+    "mlx-lm>=0.31.3,<0.32",
+    "tqdm>=4.70,<5",
+]
+
+[tool.uv]
+package = false

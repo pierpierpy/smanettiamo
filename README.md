@@ -7,10 +7,11 @@ Ogni progetto è un notebook Jupyter. Apri il notebook, esegui le celle e guarda
 | --- | --- | --- |
 | [`jev-like/`](jev-like/README.md) | Come funziona JEV. Usiamo Kev, un modello piccolo che prende decisioni. Nella seconda parte Kev guarda una webcam e capisce se stai usando il telefono. | `how-jev-works.ipynb`, `kev-image.ipynb` |
 | [`llm-representation/`](llm-representation/README.md) | Come "vedono" i modelli di linguaggio. Guardiamo cosa succede dentro il modello con un testo e con una foto. | `llm-representation.ipynb` |
+| [`prefill-decode/`](prefill-decode/README.md) | Come un modello scrive una risposta. Prima legge tutto il prompt (prefill), poi scrive un token alla volta (decode). Guardiamo la KV cache, la velocità e le richieste in parallelo. | `prefill-decode.ipynb` |
 
 ## Cosa serve
 
-- Un Mac con chip Apple Silicon (M1 o più nuovo). I notebook usano la GPU del Mac (`mps`).
+- Un Mac con chip Apple Silicon (M1 o più nuovo). I notebook usano la GPU del Mac (`mps` con PyTorch, oppure MLX).
 - Una connessione a internet. Il primo avvio scarica i modelli da Hugging Face. Servono alcuni GB di spazio libero.
 - [`uv`](https://docs.astral.sh/uv/) e `git`.
 - Una camera: facoltativa. Senza camera usi le foto nella cartella `data/imgs/`.
@@ -29,7 +30,7 @@ Usi il terminale solo due volte. Poi lavori nel notebook.
 
    ```bash
    git clone https://github.com/pierpierpy/smanettiamo
-   cd smanettiamo/jev-like        # oppure: cd smanettiamo/llm-representation
+   cd smanettiamo/jev-like        # oppure: smanettiamo/llm-representation o smanettiamo/prefill-decode
    ```
 
 2. Avvia JupyterLab:
@@ -46,7 +47,7 @@ Per i dettagli, leggi il README del progetto.
 
 ## Webcam
 
-La camera serve solo nelle sezioni "live". Il notebook la avvia da solo con `webcam.start()`.
+La camera serve solo nelle sezioni "live" di `jev-like` e `llm-representation`. Il notebook la avvia da solo con `webcam.start()`.
 Non devi usare il terminale per questo.
 
 - Camera del Mac: `start()`. macOS chiede il permesso la prima volta.
