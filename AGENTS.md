@@ -46,6 +46,7 @@ git --version
 5. Dì all'utente: apri il notebook, kernel **Python 3 (ipykernel)**, esegui le celle in ordine (`Shift + Invio`).
 
 Il primo avvio è lento: `uv` crea il venv, installa le librerie e (solo `jev-like`) scarica Kev da GitHub. Poi i notebook scaricano i modelli (alcuni GB). Avvisa l'utente **prima** del download.
+Per `prefill-decode` puoi scaricare il modello prima, nella cartella del progetto: `uv run hf download mlx-community/Qwen3-4B-4bit` (2,3 GB, va in `~/.cache/huggingface/hub`).
 
 ## Regole per l'ambiente
 

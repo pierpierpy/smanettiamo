@@ -48,6 +48,39 @@ Controlla di avere:
 
 6. Alla fine ferma tutto: nel terminale premi `Ctrl + C` due volte.
 
+## Il modello
+
+Il notebook scarica il modello da solo, nella cella con `load(...)`. Il modello è [`mlx-community/Qwen3-4B-4bit`](https://huggingface.co/mlx-community/Qwen3-4B-4bit) e pesa 2,3 GB.
+Il download avviene una sola volta. Hugging Face salva il modello in questa cartella:
+
+```
+~/.cache/huggingface/hub/models--mlx-community--Qwen3-4B-4bit
+```
+
+Gli avvii dopo leggono il modello da questa cartella. Anche `jev-like` e `llm-representation` salvano i loro modelli in `~/.cache/huggingface/hub`.
+Se hai impostato la variabile `HF_HOME`, la cartella è `$HF_HOME/hub`.
+
+### Scaricare il modello a mano (facoltativo)
+
+Vuoi scaricare il modello prima di aprire il notebook? Nella cartella `prefill-decode` esegui:
+
+```bash
+uv run hf download mlx-community/Qwen3-4B-4bit
+```
+
+`hf` è il programma di Hugging Face per il terminale. `uv` lo installa con le altre librerie del progetto. La prima volta il comando crea anche l'ambiente: dura alcuni minuti.
+Alla fine il comando scrive `✓ Downloaded` e il percorso del modello. Il modello va nella cartella di sopra. Poi la cella `load(...)` trova il modello e non lo scarica di nuovo.
+Se il download si ferma, esegui di nuovo il comando. Il download riparte da dove si è fermato.
+
+### Liberare spazio
+
+```bash
+uv run hf cache ls                                     # mostra i modelli scaricati e quanto pesano
+uv run hf cache rm model/mlx-community/Qwen3-4B-4bit   # cancella il modello (chiede conferma)
+```
+
+Se dopo esegui di nuovo il notebook, il modello si scarica di nuovo.
+
 ## Cosa vedi, cella per cella
 
 - **Sezione "Setup".** Il notebook importa MLX e `mlx-lm` e scrive la memoria della GPU usata (quasi 0 MB).
@@ -67,7 +100,7 @@ Nella sezione "Setup" c'è una cella con `# KVCache.step = 32`. MLX fa crescere 
 | `uv: command not found` | Esegui `brew install uv`. Poi apri un nuovo terminale. |
 | Il primo avvio sembra bloccato | Aspetta. Il terminale o il notebook stanno scaricando file grandi. |
 | Errore quando importi `mlx` | Il tuo Mac non ha Apple Silicon. Questo progetto non funziona su quel Mac. |
-| Il download del modello è lento o si ferma | Esegui di nuovo la cella con `load(...)`. Il download riparte da dove si è fermato. |
+| Il download del modello è lento o si ferma | Esegui di nuovo la cella con `load(...)`. Il download riparte da dove si è fermato. Oppure scarica il modello a mano (vedi "Il modello"). |
 | Una cella di streaming dura troppo | Premi il pulsante **Interrupt** (il quadrato) in alto nel notebook. Poi vai alla sezione dopo. |
 | Poca memoria / il Mac rallenta | Chiudi le altre app. Riavvia il kernel ed esegui le celle dall'inizio. |
 | Altri errori | Riavvia il kernel (menu **Kernel > Restart Kernel**) ed esegui le celle dall'inizio. |
