@@ -7,6 +7,7 @@ Ogni progetto è un notebook Jupyter. Apri il notebook, esegui le celle e guarda
 | --- | --- | --- |
 | [`jev-like/`](jev-like/README.md) | Come funziona JEV. Usiamo Kev, un modello piccolo che prende decisioni. Nella seconda parte Kev guarda una webcam e capisce se stai usando il telefono. | `how-jev-works.ipynb`, `kev-image.ipynb` |
 | [`llm-representation/`](llm-representation/README.md) | Come "vedono" i modelli di linguaggio. Guardiamo cosa succede dentro il modello con un testo e con una foto. | `llm-representation.ipynb` |
+| [`load-test/`](load-test/README.md) | Quante persone può servire un Mac che esegue un modello, tutte insieme? Facciamo un load test: da 1 a 16 richieste in parallelo, e misuriamo il tempo del primo token e la velocità per ogni utente. | `load-test.ipynb` |
 | [`prefill-decode/`](prefill-decode/README.md) | Come un modello scrive una risposta. Prima legge tutto il prompt (prefill), poi scrive un token alla volta (decode). Guardiamo la KV cache, la velocità e le richieste in parallelo. | `prefill-decode.ipynb` |
 
 ## Cosa serve
