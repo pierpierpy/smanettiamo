@@ -1,0 +1,194 @@
+{
+  "data": [
+    {
+      "session_id": "af859ec8-81ca-4fae-ac7a-00fa94de517d",
+      "payloads": [
+        {
+          "messages": [
+            {
+              "role": "user",
+              "content": " power confronted power Both are alike and both alike we like One must prove greatest while they weigh so even We hold our town for neither yet for both Enter on one side King John Eleanor Blanche the Bastard and Forces on the other King Philip Louis Austria and Forces KING JOHN France hast thou yet more blood to cast away Say shall the current of our right run on Whose passage vexd with thy impediment Shall leave his native channel and oerswellWith course disturbd even thy confining shores Unless thou let his silver water keep A peaceful progress to the ocean KING PHILIP England thou hast not savd one drop of blood In this hot trial more than we of France Rather lost more And by this hand I swear That sways the earth this climate overlooks Before we will lay down our justborne arms Well put thee down gainst whom these arms we bear Or add a royal number to the dead Gracing the scroll that tells of this wars loss With slaughter coupled to the name of kings B"
+            }
+          ],
+          "model": "mlx-community/Qwen3-4B-4bit",
+          "stream": true,
+          "max_completion_tokens": 100,
+          "stream_options": {
+            "include_usage": true
+          }
+        }
+      ]
+    },
+    {
+      "session_id": "55063aa6-2880-4d3c-827b-f3e873b2a0ab",
+      "payloads": [
+        {
+          "messages": [
+            {
+              "role": "user",
+              "content": " further He eyes us not forbear Creatures may be alike weret he I am sure He would have spoke to us GUIDERIUS But we see him dead BELARIUS Be silent lets see further PISANIO Aside It is my mistress Since she is living let the time run on To good or bad Cymbeline and Imogen advance CYMBELINE Come stand thou by our side Make thy demand aloud To Iachimo Sir step you forth Give answer to this boy and do it freely Or by our greatness and the grace of it Which is our honour bitter torture shall Winnow the truth from falsehood On speak to him IMOGEN My boon is that this gentleman may render Of whom he had this ring POSTHUMUS Aside Whats that to him CYMBELINE That diamond upon your finger say How came it yours IACHIMO Thoult torture me to leave unspoken that Which to be spoke would torture thee CYMBELINE How me IACHIMO I am glad to be constraind"
+            }
+          ],
+          "model": "mlx-community/Qwen3-4B-4bit",
+          "stream": true,
+          "max_completion_tokens": 100,
+          "stream_options": {
+            "include_usage": true
+          }
+        }
+      ]
+    },
+    {
+      "session_id": "90b6d08c-cacf-4a05-99ef-6dc8a4ae85ff",
+      "payloads": [
+        {
+          "messages": [
+            {
+              "role": "user",
+              "content": " But how hath she receivd his love POLONIUS What do you think of me KING As of a man faithful and honourable POLONIUS I would fain prove so But what might you think When I had seen this hot love on the wing As I perceivd it I must tell you that Before my daughter told me what might you Or my dear Majesty your queen here think If I had playd the desk or tablebook Or given my heart a winking mute and dumb Or lookd upon this love with idle sight What might you think No I went round to work And my young mistress thus I did bespeak Lord Hamlet is a prince out of thy star This must not be And then I precepts gave her That she should lock herself from his resort Admit no messengers receive no tokens Which done she took the fruits of my advice And he repulseda short tale to make Fell into a sadness then into a fast Thence to a watch thence into a"
+            }
+          ],
+          "model": "mlx-community/Qwen3-4B-4bit",
+          "stream": true,
+          "max_completion_tokens": 100,
+          "stream_options": {
+            "include_usage": true
+          }
+        }
+      ]
+    },
+    {
+      "session_id": "c4a286f3-cb69-4f58-87f5-425e07f01ee0",
+      "payloads": [
+        {
+          "messages": [
+            {
+              "role": "user",
+              "content": " know HOST Ay come Quick SIMPLE I may not conceal them sir FALSTAFF Conceal them or thou diest SIMPLE Why sir they were nothing but about Mistress Anne Page to know if it were my masters fortune to have her or no FALSTAFF Tis tis his fortune SIMPLE What sir FALSTAFF To have her or no Go say the woman told me so SIMPLE May I be bold to say so sir FALSTAFF Ay sir like who more bold SIMPLE I thank your worship I shall make my master glad with these tidings Exit Simple HOST Thou art clerkly thou art clerkly Sir John Was there a wise woman with thee FALSTAFF Ay that there was mine host one that hath taught me more wit than ever I learned before in my life and I paid nothing for it neither but was paid for my learning Enter Bardolph BARDOLPH Out alas sir cozenage mere cozenage HOST Where be my horses Speak well of them varletto BARDOL"
+            }
+          ],
+          "model": "mlx-community/Qwen3-4B-4bit",
+          "stream": true,
+          "max_completion_tokens": 100,
+          "stream_options": {
+            "include_usage": true
+          }
+        }
+      ]
+    },
+    {
+      "session_id": "1c94358d-7258-4c4d-8d7e-a9ae8fa5521e",
+      "payloads": [
+        {
+          "messages": [
+            {
+              "role": "user",
+              "content": " cast write sing numberhoo His love to Antony But as for Caesar Kneel down kneel down and wonder AGRIPPA Both he loves ENOBARBUS They are his shards and he their beetle Trumpets within So This is to horse Adieu noble Agrippa AGRIPPA Good fortune worthy soldier and farewell Enter Caesar Antony Lepidus and Octavia ANTONY No further sir CAESAR You take from me a great part of myself Use me well int Sister prove such a wife As my thoughts make thee and as my farthest bond Shall pass on thy approof Most noble Antony Let not the piece of virtue which is set Betwixt us as the cement of our love To keep it builded be the ram to batter The fortress of it For better might we Have loved without this mean if on both parts This be not cherished ANTONY Make me not offended In your distrust CAESAR I have said ANTONY You shall not find Though you be"
+            }
+          ],
+          "model": "mlx-community/Qwen3-4B-4bit",
+          "stream": true,
+          "max_completion_tokens": 100,
+          "stream_options": {
+            "include_usage": true
+          }
+        }
+      ]
+    },
+    {
+      "session_id": "758c7765-7a0c-4fcd-8e1c-f7e80da599e7",
+      "payloads": [
+        {
+          "messages": [
+            {
+              "role": "user",
+              "content": " Are suitors to you Young Martius rises CORIOLANUS I beseech you peace Or if youd ask remember this before The thing I have forsworn to grant may never Be held by you denials Do not bid me Dismiss my soldiers or capitulate Again with Romes mechanics Tell me not Wherein I seem unnatural desire not T allay my rages and revenges with Your colder reasons VOLUMNIA O no more no more You have said you will not grant us anything For we have nothing else to ask but that Which you deny already Yet we will ask That if you fail in our request the blame May hang upon your hardness Therefore hear us CORIOLANUS Aufidius and you Volsces mark for well Hear naught from Rome in private Your request VOLUMNIA Should we be silent and not speak our raiment And state of bodies would bewray what life We have led since thy exile Think with thyself How more unfortunate than all living"
+            }
+          ],
+          "model": "mlx-community/Qwen3-4B-4bit",
+          "stream": true,
+          "max_completion_tokens": 100,
+          "stream_options": {
+            "include_usage": true
+          }
+        }
+      ]
+    },
+    {
+      "session_id": "4b2c53fd-67d1-4c2c-9b8a-7dd6260b3c1c",
+      "payloads": [
+        {
+          "messages": [
+            {
+              "role": "user",
+              "content": " THERSITES I would have peace and quietness but the fool will not he there that he look you there AJAX O thou damned cur I shall ACHILLES Will you set your wit to a fools THERSITES No I warrant you the fools will shame it PATROCLUS Good words Thersites ACHILLES Whats the quarrel AJAX I bade the vile owl go learn me the tenour of the proclamation and he rails upon me THERSITES I serve thee not AJAX Well go to go to THERSITES I serve here voluntary ACHILLES Your last service was suffrance twas not voluntary No man is beaten voluntary Ajax was here the voluntary and you as under an impress THERSITES Een so a great deal of your wit too lies in your sinews or else there be liars Hector shall have a great catch and knock out either of your brains a were as good crack a fusty nut with no kernel ACHILLES What with me"
+            }
+          ],
+          "model": "mlx-community/Qwen3-4B-4bit",
+          "stream": true,
+          "max_completion_tokens": 100,
+          "stream_options": {
+            "include_usage": true
+          }
+        }
+      ]
+    },
+    {
+      "session_id": "7e72d087-1a0c-4adf-82ec-608025f2124a",
+      "payloads": [
+        {
+          "messages": [
+            {
+              "role": "user",
+              "content": " Noble friends That which combined us was most great and let not A leaner action rend us Whats amiss May it be gently heard When we debate Our trivial difference loud we do commit Murder in healing wounds Then noble partners The rather for I earnestly beseech Touch you the sourest points with sweetest terms Nor curstness grow to th matter ANTONY Tis spoken well Were we before our armies and to fight I should do thus CAESAR Welcome to Rome ANTONY Thank you CAESAR Sit ANTONY Sit sir CAESAR Nay then ANTONY I learn you take things ill which are not so Or being concern you not CAESAR I must be laughed at If or for nothing or a little I Should say myself offended and with you Chiefly i th world more laughed at that I shouldOnce name you derogately when to sound your name It not concerned me ANTONY My being in Egypt Caesar What wast to you CAESAR No more than my residing"
+            }
+          ],
+          "model": "mlx-community/Qwen3-4B-4bit",
+          "stream": true,
+          "max_completion_tokens": 100,
+          "stream_options": {
+            "include_usage": true
+          }
+        }
+      ]
+    },
+    {
+      "session_id": "4714561f-3dad-4260-b4bd-27164bdf6f4e",
+      "payloads": [
+        {
+          "messages": [
+            {
+              "role": "user",
+              "content": " I stand kneel thou Whilst I propose the selfsame words to thee Which traitor thou wouldst have me answer to QUEEN MARGARET Ah thy father had been so resolved RICHARD That you might still have worn the petticoat And neer have stoln the breech from Lancaster PRINCE EDWARD Let Aesop fable in a winters night His currish riddle sorts not with this place RICHARD By heaven brat Ill plague you for that word QUEEN MARGARET Ay thou wast born to be a plague to men RICHARD For Gods sake take away this captive scold PRINCE EDWARD Nay take away this scolding crookback rather KING EDWARD Peace wilful boy or I will charm your tongue GEORGE Untutored lad thou art too malapert PRINCE EDWARD I know my duty you are all undutiful Lascivious Edward and thou perjured George And thou misshap"
+            }
+          ],
+          "model": "mlx-community/Qwen3-4B-4bit",
+          "stream": true,
+          "max_completion_tokens": 100,
+          "stream_options": {
+            "include_usage": true
+          }
+        }
+      ]
+    },
+    {
+      "session_id": "257f2f70-1646-419b-a3ac-f6816946cba3",
+      "payloads": [
+        {
+          "messages": [
+            {
+              "role": "user",
+              "content": " A dozen years within which space she died And left thee there where thou didst vent thy groans As fast as millwheels strike Then was this island Save for the son that she did litter here A freckld whelp hagbornnot honourd with A human shape ARIEL Yes Caliban her son PROSPERO Dull thing I say so he that Caliban Whom now I keep in service Thou best knowst What torment I did find thee in thy groans Did make wolves howl and penetrate the breasts Of everangry bears it was a torment To lay upon the damnd which Sycorax Could not again undo it was mine art When I arrivd and heard thee that made gape The pine and let thee out ARIEL I thank thee master PROSPERO If thou more murmurst I will rend an oak And peg thee in his knotty entrails till Thou hast howld away twelve winters ARIEL Pardon master I will be correspondent to"
+            }
+          ],
+          "model": "mlx-community/Qwen3-4B-4bit",
+          "stream": true,
+          "max_completion_tokens": 100,
+          "stream_options": {
+            "include_usage": true
+          }
+        }
+      ]
+    }
+  ]
+}

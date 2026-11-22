@@ -1,0 +1,194 @@
+{
+  "data": [
+    {
+      "session_id": "389a8dff-1da6-42eb-bda5-e27629192c1a",
+      "payloads": [
+        {
+          "messages": [
+            {
+              "role": "user",
+              "content": " tomorrow Take no unkindness of his hasty words Away I say commend me to thy master Exit Tailor PETRUCHIO Well come my Kate we will unto your fathers Even in these honest mean habiliments Our purses shall be proud our garments poor For tis the mind that makes the body rich And as the sun breaks through the darkest clouds So honour peereth in the meanest habit What is the jay more precious than the lark Because his feathers are more beautiful Or is the adder better than the eel Because his painted skin contents the eye O no good Kate neither art thou the worse For this poor furniture and mean array If thou accountst it shame lay it on me And therefore frolic we will hence forthwith To feast and sport us at thy fathers house Go call my men and let us straight to him And bring our horses unto Longlane end There will we mount and thither walk on foot Lets see I think tis now some seven oclock And well we may"
+            }
+          ],
+          "model": "mlx-community/Qwen3-4B-4bit",
+          "stream": true,
+          "max_completion_tokens": 100,
+          "stream_options": {
+            "include_usage": true
+          }
+        }
+      ]
+    },
+    {
+      "session_id": "ee35b0a1-496e-4c80-958d-31a00cf94960",
+      "payloads": [
+        {
+          "messages": [
+            {
+              "role": "user",
+              "content": " what thy quarrel Speak truly on thy knighthood and thy oath As so defend thee heaven and thy valour MOWBRAY My name is Thomas Mowbray Duke of Norfolk Who hither come engaged by my oath Which God defend a knight should violate Both to defend my loyalty and truth To God my King and my succeeding issue Against the Duke of Hereford that appeals me And by the grace of God and this mine arm To prove him in defending of myself A traitor to my God my king and me And as I truly fight defend me heaven He takes his seat Trumpet sounds Enter Bolingbroke appellant in armour preceded by a Herald KING RICHARD Marshal ask yonder knight in arms Both who he is and why he cometh hither Thus plated in habiliments of war And formally according to our law Depose him in the justice of his cause MARSHAL What is thy name And wherefore comst thou hither Before King Richard in his royal lists Against whom com"
+            }
+          ],
+          "model": "mlx-community/Qwen3-4B-4bit",
+          "stream": true,
+          "max_completion_tokens": 100,
+          "stream_options": {
+            "include_usage": true
+          }
+        }
+      ]
+    },
+    {
+      "session_id": "49f25a78-0dbb-4c4f-985e-57e6853faf0b",
+      "payloads": [
+        {
+          "messages": [
+            {
+              "role": "user",
+              "content": "ld plain Kate And bonny Kate and sometimes Kate the curst But Kate the prettiest Kate in Christendom Kate of Kate Hall my superdainty Kate For dainties are all Kates and therefore Kate Take this of me Kate of my consolation Hearing thy mildness praisd in every town Thy virtues spoke of and thy beauty sounded Yet not so deeply as to thee belongs Myself am movd to woo thee for my wife KATHERINA Movd in good time let him that movd you hither Remove you hence I knew you at the first You were a moveable PETRUCHIO Why whats a moveable KATHERINA A jointstool PETRUCHIO Thou hast hit it come sit on me KATHERINA Asses are made to bear and so are you PETRUCHIO Women are made to bear and so are you KATHERINA No such jade as bear you if me you mean PETRUCHIO Alas good Kate I will not burden thee For knowing"
+            }
+          ],
+          "model": "mlx-community/Qwen3-4B-4bit",
+          "stream": true,
+          "max_completion_tokens": 100,
+          "stream_options": {
+            "include_usage": true
+          }
+        }
+      ]
+    },
+    {
+      "session_id": "85902b2a-e943-4eaf-954f-344512840ed9",
+      "payloads": [
+        {
+          "messages": [
+            {
+              "role": "user",
+              "content": " found Inquire at London mongst the taverns there For there they say he daily doth frequent With unrestrained loose companions Even such they say as stand in narrow lanes And beat our watch and rob our passengers While he young wanton and effeminate boy Takes on the point of honour to support So dissolute a crew PERCY My lord some two days since I saw the Prince And told him of those triumphs held at Oxford KING HENRY And what said the gallant PERCY His answer was he would unto the stews And from the commonst creature pluck a glove And wear it as a favour and with that He would unhorse the lustiest challenger KING HENRY As dissolute as desperate Yet through both I see some sparks of better hope which elder years May happily bring forth But who comes here Enter Aumerle AUMERLE Where is the King KING HENRY What means our cousin that he stares and looks so wildly AUMERLE God save your Grace"
+            }
+          ],
+          "model": "mlx-community/Qwen3-4B-4bit",
+          "stream": true,
+          "max_completion_tokens": 100,
+          "stream_options": {
+            "include_usage": true
+          }
+        }
+      ]
+    },
+    {
+      "session_id": "bef2b7a8-870c-406c-b130-f56e9c4eb313",
+      "payloads": [
+        {
+          "messages": [
+            {
+              "role": "user",
+              "content": " dagger man and young Dropheir that killed lusty Pudding and Master Forthright the tilter and brave Master Shoetie the great traveller and wild Halfcan that stabbed Pots and I think forty more all great doers in our trade and are now for the Lords sake Enter Abhorson ABHORSON Sirrah bring Barnardine hither POMPEY Master Barnardine You must rise and be hanged Master Barnardine ABHORSON What ho Barnardine BARNARDINE Within A pox o your throats Who makes that noise there What are you POMPEY Your friends sir the hangman You must be so good sir to rise and be put to death BARNARDINE Within Away you rogue away I am sleepy ABHORSON Tell him he must awake and that quickly too POMPEY Pray Master Barnardine awake till you are executed and sleep afterwards ABHORSON Go in to him and fetch him out"
+            }
+          ],
+          "model": "mlx-community/Qwen3-4B-4bit",
+          "stream": true,
+          "max_completion_tokens": 100,
+          "stream_options": {
+            "include_usage": true
+          }
+        }
+      ]
+    },
+    {
+      "session_id": "4785b91b-73aa-4de9-afe9-2796f91f62ad",
+      "payloads": [
+        {
+          "messages": [
+            {
+              "role": "user",
+              "content": " may inform you POSTHUMUS Please your Highness I will from hence today QUEEN You know the peril Ill fetch a turn about the garden pitying The pangs of barrd affections though the King Hath chargd you should not speak togetherExit IMOGEN O dissembling courtesy How fine this tyrant Can tickle where she wounds My dearest husband I something fear my fathers wrath but nothing Always reservd my holy duty what His rage can do on me You must be gone And I shall here abide the hourly shot Of angry eyes not comforted to live But that there is this jewel in the world That I may see again POSTHUMUS My queen my mistress O lady weep no more lest I give cause To be suspected of more tenderness Than doth become a man I will remain The loyalst husband that did eer plight troth My residence in Rome at one Philarios Who to my father was a friend to me Known but by letter thither write my queen And with mine"
+            }
+          ],
+          "model": "mlx-community/Qwen3-4B-4bit",
+          "stream": true,
+          "max_completion_tokens": 100,
+          "stream_options": {
+            "include_usage": true
+          }
+        }
+      ]
+    },
+    {
+      "session_id": "6b569920-7b5e-4e0e-af2e-c8f0850694ec",
+      "payloads": [
+        {
+          "messages": [
+            {
+              "role": "user",
+              "content": " their amity shall prove the immediate author of their variance Antony will use his affection where it is He married but his occasion here MENAS And thus it may be Come sir will you aboard I have a health for you ENOBARBUS I shall take it sir We have used our throats in Egypt MENAS Come lets away Exeunt SCENE VII On board Pompeys Galley lying near Misenum Music Enter two or three Servants with a banquet FIRST SERVANT Here theyll be man Some o their plants are illrooted already the least wind i th world will blow them down SECOND SERVANT Lepidus is highcoloured FIRST SERVANT They have made him drink almsdrink SECOND SERVANT As they pinch one another by the disposition he cries out no more reconciles them to his entreaty and himself to th drink FIRST SERVANT But it raises the greater war between him and his discretion SECOND SERVANT Why this it is to have a name"
+            }
+          ],
+          "model": "mlx-community/Qwen3-4B-4bit",
+          "stream": true,
+          "max_completion_tokens": 100,
+          "stream_options": {
+            "include_usage": true
+          }
+        }
+      ]
+    },
+    {
+      "session_id": "f96574b6-2ba7-4731-bbda-4f9fd6eb9946",
+      "payloads": [
+        {
+          "messages": [
+            {
+              "role": "user",
+              "content": "ine SECOND CARRIER Ay when Canst tell Lend me thy lantern quoth he Marry Ill see thee hanged first GADSHILL Sirrah carrier what time do you mean to come to London SECOND CARRIER Time enough to go to bed with a candle I warrant thee Come neighbour Mugs well call up the gentlemen They will along with company for they have great charge Exeunt Carriers GADSHILL What ho Chamberlain Enter Chamberlain CHAMBERLAIN At hand quoth pickpurse GADSHILL Thats even as fair as at hand quoth the chamberlain for thou variest no more from picking of purses than giving direction doth from labouring thou layest the plot how CHAMBERLAIN Good morrow Master Gadshill It holds current that I told you yesternight theres a franklin in the Wild of Kent hath brought three hundred marks with him in gold I heard him tell it to one of his company last night at supper"
+            }
+          ],
+          "model": "mlx-community/Qwen3-4B-4bit",
+          "stream": true,
+          "max_completion_tokens": 100,
+          "stream_options": {
+            "include_usage": true
+          }
+        }
+      ]
+    },
+    {
+      "session_id": "624469d2-1929-46b1-aeb7-c5698e6a1b22",
+      "payloads": [
+        {
+          "messages": [
+            {
+              "role": "user",
+              "content": " them when that my mother went with child Of that insatiate Edward noble York My princely father then had wars in France And by true computation of the time Found that the issue was not his begot Which well appeared in his lineaments Being nothing like the noble Duke my father Yet touch this sparingly as twere far off Because my lord you know my mother lives BUCKINGHAM Doubt not my lord Ill play the orator As if the golden fee for which I plead Were for myself And so my lord adieu RICHARD If you thrive well bring them to Baynards Castle Where you shall find me well accompanied With reverend fathers and welllearned bishops BUCKINGHAM I go and towards three or four oclock Look for the news that the Guildhall affords Exit RICHARD Go Lovell with all speed to Doctor Shaa To Ratcliffe Go thou to Friar Penker bid them both Meet me within this hour at Baynards Castle Exeunt Rat"
+            }
+          ],
+          "model": "mlx-community/Qwen3-4B-4bit",
+          "stream": true,
+          "max_completion_tokens": 100,
+          "stream_options": {
+            "include_usage": true
+          }
+        }
+      ]
+    },
+    {
+      "session_id": "74284190-4a1d-445c-b3ef-e714b0e890a5",
+      "payloads": [
+        {
+          "messages": [
+            {
+              "role": "user",
+              "content": " I looked on her CLAUDIO Is she not a modest young lady BENEDICK Do you question me as an honest man should do for my simple true judgment or would you have me speak after my custom as being a professed tyrant to their sex CLAUDIO No I pray thee speak in sober judgment BENEDICK Why i faith methinks shes too low for a high praise too brown for a fair praise and too little for a great praise only this commendation I can afford her that were she other than she is she were unhandsome and being no other but as she is I do not like her CLAUDIO Thou thinkest I am in sport I pray thee tell me truly how thou likest her BENEDICK Would you buy her that you enquire after her CLAUDIO Can the world buy such a jewel BENEDICK Yea and a case to put it into But speak you this with a sad brow or do you play the flouting Jack to tell us Cupid is a good"
+            }
+          ],
+          "model": "mlx-community/Qwen3-4B-4bit",
+          "stream": true,
+          "max_completion_tokens": 100,
+          "stream_options": {
+            "include_usage": true
+          }
+        }
+      ]
+    }
+  ]
+}

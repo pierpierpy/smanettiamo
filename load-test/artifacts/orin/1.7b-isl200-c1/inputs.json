@@ -1,0 +1,194 @@
+{
+  "data": [
+    {
+      "session_id": "dc0407ae-3ae7-4aa5-a0a6-e546e6c83cd2",
+      "payloads": [
+        {
+          "messages": [
+            {
+              "role": "user",
+              "content": " mistress Here is a box I had it from the Queen Whats int is precious If you are sick at sea Or stomachqualmd at land a dram of this Will drive away distemper To some shade And fit you to your manhood May the gods Direct you to the best IMOGEN Amen I thank thee Exeunt severally SCENE V Britain Cymbelines palace Enter Cymbeline Queen Cloten Lucius and Lords CYMBELINE Thus far and so farewell LUCIUS Thanks royal sir My emperor hath wrote I must from hence And am right sorry that I must report ye My masters enemy CYMBELINE Our subjects sir Will not endure his yoke and for ourself To show less sovereignty than they must needs Appear unkinglike LUCIUS So sir I desire of you A conduct overland to Milford Haven Madam all joy befall your Grace and you CYMBELINE My lords you are appointed for that office The due of honour in no point omit So"
+            }
+          ],
+          "model": "mlx-community/Qwen3-1.7B-4bit",
+          "stream": true,
+          "max_completion_tokens": 100,
+          "stream_options": {
+            "include_usage": true
+          }
+        }
+      ]
+    },
+    {
+      "session_id": "81b91434-d540-463e-a587-f617c1dae9fa",
+      "payloads": [
+        {
+          "messages": [
+            {
+              "role": "user",
+              "content": "IA Nay certainly there is no truth in him ROSALIND Do you think so CELIA Yes I think he is not a pickpurse nor a horsestealer but for his verity in love I do think him as concave as a covered goblet or a wormeaten nut ROSALIND Not true in love CELIA Yes when he is in but I think he is not in ROSALIND You have heard him swear downright he was CELIA Was is not is Besides the oath of a lover is no stronger than the word of a tapster They are both the confirmer of false reckonings He attends here in the forest on the Duke your father ROSALIND I met the Duke yesterday and had much question with him He asked me of what parentage I was I told him of as good as he so he laughed and let me go But what talk we of fathers when there is such a man as Orlando CELIA O thats a brave man He writes brave verses speaks brave words"
+            }
+          ],
+          "model": "mlx-community/Qwen3-1.7B-4bit",
+          "stream": true,
+          "max_completion_tokens": 100,
+          "stream_options": {
+            "include_usage": true
+          }
+        }
+      ]
+    },
+    {
+      "session_id": "9932face-fb8a-418f-8bc6-0155c11931b7",
+      "payloads": [
+        {
+          "messages": [
+            {
+              "role": "user",
+              "content": " worthy enough to present them HOLOFERNES Joshua yourself myself and this gallant gentleman Judas Maccabaeus This swain because of his great limb or joint shall pass Pompey the Great the page Hercules ARMADO Pardon sir error He is not quantity enough for that Worthys thumb he is not so big as the end of his club HOLOFERNES Shall I have audience He shall present Hercules in minority His enter and exit shall be strangling a snake and I will have an apology for that purpose MOTH An excellent device So if any of the audience hiss you may cry Well done Hercules now thou crushest the snake That is the way to make an offence gracious though few have the grace to do it ARMADO For the rest of the Worthies HOLOFERNES I will play three myself MOTH Thriceworthy gentleman ARMADO Shall I tell you a thing HOLOFERNES We attend ARMADO We will have if this fadge not an antic I"
+            }
+          ],
+          "model": "mlx-community/Qwen3-1.7B-4bit",
+          "stream": true,
+          "max_completion_tokens": 100,
+          "stream_options": {
+            "include_usage": true
+          }
+        }
+      ]
+    },
+    {
+      "session_id": "1a0540af-22e7-4a09-b8bf-2fa74204e6f9",
+      "payloads": [
+        {
+          "messages": [
+            {
+              "role": "user",
+              "content": " presence even the presence of Lord Mortimer that I am the besom that must sweep the court clean of such filth as thou art Thou hast most traitorously corrupted the youth of the realm in erecting a grammar school and whereas before our forefathers had no other books but the score and the tally thou hast caused printing to be used and contrary to the King his crown and dignity thou hast built a papermill It will be proved to thy face that thou hast men about thee that usually talk of a noun and a verb and such abominable words as no Christian ear can endure to hear Thou hast appointed justices of peace to call poor men before them about matters they were not able to answer Moreover thou hast put them in prison and because they could not read thou hast hanged them when indeed only for that cause they have been most worthy to live Thou dost ride on a footcloth dost thou not SAYE What of that CADE Marry thou oughtst not to let thy horse wear a"
+            }
+          ],
+          "model": "mlx-community/Qwen3-1.7B-4bit",
+          "stream": true,
+          "max_completion_tokens": 100,
+          "stream_options": {
+            "include_usage": true
+          }
+        }
+      ]
+    },
+    {
+      "session_id": "a3fb2343-2c67-4dd0-9484-5f9169e1ef63",
+      "payloads": [
+        {
+          "messages": [
+            {
+              "role": "user",
+              "content": " he say sirreverence I have but lean luck in the match and yet is she a wondrous fat marriage ANTIPHOLUS OF SYRACUSE How dost thou mean a fat marriage DROMIO OF SYRACUSE Marry sir shes the kitchen wench and all grease and I know not what use to put her to but to make a lamp of her and run from her by her own light I warrant her rags and the tallow in them will burn a Poland winter If she lives till doomsday shell burn a week longer than the whole world ANTIPHOLUS OF SYRACUSEWhat complexion is she of DROMIO OF SYRACUSE Swart like my shoe but her face nothing like so clean kept For why she sweats a man may go overshoes in the grime of it ANTIPHOLUS OF SYRACUSE Thats a fault that water will mend DROMIO OF SYRACUSE No sir tis in grain"
+            }
+          ],
+          "model": "mlx-community/Qwen3-1.7B-4bit",
+          "stream": true,
+          "max_completion_tokens": 100,
+          "stream_options": {
+            "include_usage": true
+          }
+        }
+      ]
+    },
+    {
+      "session_id": "31d34f80-e236-4b50-a9ae-3b01930b3a29",
+      "payloads": [
+        {
+          "messages": [
+            {
+              "role": "user",
+              "content": " you I should have given it you today morning but as a madmans epistles are no gospels so it skills not much when they are delivered OLIVIA Open t and read it CLOWN Look then to be well edified when the fool delivers the madman By the Lord madam OLIVIA How now art thou mad CLOWN No madam I do but read madness an your ladyship will have it as it ought to be you must allow vox OLIVIA Prithee read i thy right wits CLOWN So I do madonna But to read his right wits is to read thus therefore perpend my princess and give ear OLIVIA To Fabian Read it you sirrah FABIAN Reads By the Lord madam you wrong me and the world shall know it Though you have put me into darkness and given your drunken cousin rule over me yet have I the benefit of my senses as well as your ladyship I have your own letter that induced me to"
+            }
+          ],
+          "model": "mlx-community/Qwen3-1.7B-4bit",
+          "stream": true,
+          "max_completion_tokens": 100,
+          "stream_options": {
+            "include_usage": true
+          }
+        }
+      ]
+    },
+    {
+      "session_id": "1aa8a3cf-5b82-475a-8735-b36a25b27918",
+      "payloads": [
+        {
+          "messages": [
+            {
+              "role": "user",
+              "content": " of youth Behold this man Commend unto his lips thy favouring hand Kiss it my warrior He hath fought today As if a god in hate of mankind had Destroyed in such a shape CLEOPATRA Ill give thee friend An armour all of gold It was a kings ANTONY He has deserved it were it carbuncled Like holy Phbus car Give me thy hand Through Alexandria make a jolly march Bear our hacked targets like the men that owe them Had our great palace the capacity To camp this host we all would sup together And drink carouses to the next days fate Which promises royal perilTrumpeters With brazen din blast you the citys ear Make mingle with our rattling tabourines That heaven and earth may strike their sounds together Applauding our approach Exeunt SCENE IX Caesars camp Enter a Sentry and his company Enobarbus follows SENTRY If we be not relieved within this hour We must return to th court of guard The night Is shiny and"
+            }
+          ],
+          "model": "mlx-community/Qwen3-1.7B-4bit",
+          "stream": true,
+          "max_completion_tokens": 100,
+          "stream_options": {
+            "include_usage": true
+          }
+        }
+      ]
+    },
+    {
+      "session_id": "f0752564-8e68-419b-98bb-43f1ca1d0ed2",
+      "payloads": [
+        {
+          "messages": [
+            {
+              "role": "user",
+              "content": " put on a religious life And thrown into neglect the pompous court JAQUES DE BOYS He hath JAQUES To him will I Out of these convertites There is much matter to be heard and learned To Duke Senior You to your former honour I bequeath Your patience and your virtue well deserves it To Orlando You to a love that your true faith doth merit To Oliver You to your land and love and great allies To Silvius You to a long and welldeserved bed To Touchstone And you to wrangling for thy loving voyage Is but for two months victualledSo to your pleasures I am for other than for dancing measures DUKE SENIOR Stay Jaques stay JAQUES To see no pastime I What you would have Ill stay to know at your abandoned cave Exit DUKE SENIOR Proceed proceed We will begin these rites As we do trust theyll end in true delights Dance Exeunt all but Rosalind EPILOGUE ROSALIND It"
+            }
+          ],
+          "model": "mlx-community/Qwen3-1.7B-4bit",
+          "stream": true,
+          "max_completion_tokens": 100,
+          "stream_options": {
+            "include_usage": true
+          }
+        }
+      ]
+    },
+    {
+      "session_id": "03f7a2d7-68e7-4f35-99b5-177438cc867d",
+      "payloads": [
+        {
+          "messages": [
+            {
+              "role": "user",
+              "content": " know this Captain Dumaine PAROLLES I know him he was a botchers prentice in Paris from whence he was whipped for getting the shrieves fool with child a dumb innocent that could not say him nay First Lord lifts up his hand in anger BERTRAM Nay by your leave hold your hands though I know his brains are forfeit to the next tile that falls FIRST SOLDIER Well is this captain in the Duke of Florences camp PAROLLES Upon my knowledge he is and lousy FIRST LORD Nay look not so upon me we shall hear of your lordship anon FIRST SOLDIER What is his reputation with the duke PAROLLES The duke knows him for no other but a poor officer of mine and writ to me this other day to turn him out o the band I think I have his letter in my pocket FIRST SOLDIER Marry well search PAROLLES In good sadness I do not know either it is there or it is upon a file with the dukes other"
+            }
+          ],
+          "model": "mlx-community/Qwen3-1.7B-4bit",
+          "stream": true,
+          "max_completion_tokens": 100,
+          "stream_options": {
+            "include_usage": true
+          }
+        }
+      ]
+    },
+    {
+      "session_id": "102ebf31-0ad7-4f3f-b38b-dce25d601da7",
+      "payloads": [
+        {
+          "messages": [
+            {
+              "role": "user",
+              "content": " Jove knows I love But who Lips do not move No man must know No man must know What follows The numbers alterd No man must knowIf this should be thee Malvolio SIR TOBY Marry hang thee brock MALVOLIO I may command where I adore But silence like a Lucrece knife With bloodless stroke my heart doth gore MOAI doth sway my life FABIAN A fustian riddle SIR TOBY Excellent wench say I MALVOLIO MOAI doth sway my lifeNay but first let me see let me see let me see FABIAN What dish o poison has she dressed him SIR TOBY And with what wing the staniel checks at it MALVOLIO I may command where I adore Why she may command me I serve her she is my lady Why this is evident to any formal capacity There is no obstruction in this And the endwhat should that alphabetical position portend If I could make that resemble"
+            }
+          ],
+          "model": "mlx-community/Qwen3-1.7B-4bit",
+          "stream": true,
+          "max_completion_tokens": 100,
+          "stream_options": {
+            "include_usage": true
+          }
+        }
+      ]
+    }
+  ]
+}

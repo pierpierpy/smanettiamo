@@ -1,0 +1,308 @@
+{
+  "data": [
+    {
+      "session_id": "4cac3045-70a8-4682-86a1-23f50f93b15a",
+      "payloads": [
+        {
+          "messages": [
+            {
+              "role": "user",
+              "content": " TROILUS Nay we must use expostulation kindly For it is parting from us I speak not Be thou true as fearing thee For I will throw my glove to Death himself That theres no maculation in thy heart But Be thou true say I to fashion in My sequent protestation be thou true And I will see thee CRESSIDA O you shall be exposd my lord to dangers As infinite as imminent But Ill be true TROILUS And Ill grow friend with danger Wear this sleeve CRESSIDA And you this glove When shall I see you TROILUS I will corrupt the Grecian sentinels To give thee nightly visitation But yet be true CRESSIDA O heavens Be true again TROILUS Hear why I speak it love The Grecian youths are full of quality Theyre loving well composd with gifts of nature Flowing and swelling oer with arts and exercise How novelty may move and parts with person Alas a kind of godly jealousy"
+            }
+          ],
+          "model": "mlx-community/Qwen3-4B-4bit",
+          "stream": true,
+          "max_completion_tokens": 100,
+          "stream_options": {
+            "include_usage": true
+          }
+        }
+      ]
+    },
+    {
+      "session_id": "7c8c0021-23c7-43cc-8191-0f63dfb06e77",
+      "payloads": [
+        {
+          "messages": [
+            {
+              "role": "user",
+              "content": " do not look for further recompense Than thine own gladness that thou art employed SILVIUS So holy and so perfect is my love And I in such a poverty of grace That I shall think it a most plenteous crop To glean the broken ears after the man That the main harvest reaps Loose now and then A scattered smile and that Ill live upon PHOEBE Knowst thou the youth that spoke to me erewhile SILVIUS Not very well but I have met him oft And he hath bought the cottage and the bounds That the old carlot once was master of PHOEBE Think not I love him though I ask for him Tis but a peevish boyyet he talks well But what care I for words Yet words do well When he that speaks them pleases those that hear It is a pretty youthnot very pretty But sure hes proud and yet his pride becomes him Hell make a proper man The best thing in him Is his complexion and"
+            }
+          ],
+          "model": "mlx-community/Qwen3-4B-4bit",
+          "stream": true,
+          "max_completion_tokens": 100,
+          "stream_options": {
+            "include_usage": true
+          }
+        }
+      ]
+    },
+    {
+      "session_id": "f4d6ae71-e226-4ed2-ab9b-235a58d1eb20",
+      "payloads": [
+        {
+          "messages": [
+            {
+              "role": "user",
+              "content": " me my women like a queen Go fetch My best attires I am again for Cydnus To meet Mark Antony Sirrah Iras go Now noble Charmian well dispatch indeed And when thou hast done this chare Ill give thee leave To play till doomsday Bring our crown and all Exit Iras A noise within Wherefores this noise Enter a Guardsman GUARDSMAN Here is a rural fellow That will not be denied your highness presence He brings you figs CLEOPATRA Let him come in Exit Guardsman What poor an instrument May do a noble deed He brings me liberty My resolutions placed and I have nothing Of woman in me Now from head to foot I am marbleconstant Now the fleeting moon No planet is of mine Enter Guardsman and Clown with a basket GUARDSMAN This is the man CLEOPATRA Avoid and leave him Exit Guardsman Hast thou the pretty worm of Nilus there That kills and pains not CLOWN Truly I have him but I would"
+            }
+          ],
+          "model": "mlx-community/Qwen3-4B-4bit",
+          "stream": true,
+          "max_completion_tokens": 100,
+          "stream_options": {
+            "include_usage": true
+          }
+        }
+      ]
+    },
+    {
+      "session_id": "4d6537ef-2e87-41cd-9306-dfad11964312",
+      "payloads": [
+        {
+          "messages": [
+            {
+              "role": "user",
+              "content": " The sleeping and the dead Are but as pictures Tis the eye of childhood That fears a painted devil If he do bleed Ill gild the faces of the grooms withal For it must seem their guilt Exit Knocking within MACBETH Whence is that knocking How ist with me when every noise appals me What hands are here Ha they pluck out mine eyes Will all great Neptunes ocean wash this blood Clean from my hand No this my hand will rather The multitudinous seas incarnadine Making the green one red Enter Lady Macbeth LADY MACBETH My hands are of your color but I shame To wear a heart so white Knocking within I hear knocking At the south entryretire we to our chamberA little water clears us of this deed How easy is it then Your constancy Hath left you unattendedKnocking within Hark more knocking Get on your nightgown lest occasion call us And show us to be watchers Be not lost So poorly in your thoughts"
+            }
+          ],
+          "model": "mlx-community/Qwen3-4B-4bit",
+          "stream": true,
+          "max_completion_tokens": 100,
+          "stream_options": {
+            "include_usage": true
+          }
+        }
+      ]
+    },
+    {
+      "session_id": "1cdcdfe4-f365-4bd8-b7a7-ec69a84e943e",
+      "payloads": [
+        {
+          "messages": [
+            {
+              "role": "user",
+              "content": "ARD Brother by th mothers side give me your hand My father gave me honour yours gave land Now blessed be the hour by night or day When I was got Sir Robert was away QUEEN ELEANOR The very spirit of Plantagenet I am thy grandam Richard call me so BASTARD Madam by chance but not by truth what though Something about a little from the right In at the window or else oer the hatch Who dares not stir by day must walk by night And have is have however men do catch Near or far off well won is still well shot And I am I howeer I was begot KING JOHN Go Faulconbridge now hast thou thy desire A landless knight makes thee a landed squire Come madam and come Richard we must speed For France for France for it is more than need BASTARD Brother adieu good fortune come to thee For thou wast got i th way of honesty Exeunt all but the Bastard A foot of honour better than I"
+            }
+          ],
+          "model": "mlx-community/Qwen3-4B-4bit",
+          "stream": true,
+          "max_completion_tokens": 100,
+          "stream_options": {
+            "include_usage": true
+          }
+        }
+      ]
+    },
+    {
+      "session_id": "274129be-a875-4ddd-8b14-785207a73dae",
+      "payloads": [
+        {
+          "messages": [
+            {
+              "role": "user",
+              "content": " Dauphin KING JOHN Thou hast made me giddy With these in tidings Enter the Bastard and Peter of Pomfret Now what says the world To your proceedings Do not seek to stuff My head with more ill news for it is full BASTARD But if you be afeard to hear the worst Then let the worst unheard fall on your head KING JOHN Bear with me cousin for I was amazd Under the tide but now I breathe again Aloft the flood and can give audience To any tongue speak it of what it will BASTARD How I have sped among the clergymen The sums I have collected shall express But as I travailld hither through the land I find the people strangely fantasied Possessd with rumours full of idle dreams Not knowing what they fear but full of fear And heres a prophet that I brought with me From forth the streets of Pomfret whom I found With many hundreds treading on his heels To whom he sung in rude"
+            }
+          ],
+          "model": "mlx-community/Qwen3-4B-4bit",
+          "stream": true,
+          "max_completion_tokens": 100,
+          "stream_options": {
+            "include_usage": true
+          }
+        }
+      ]
+    },
+    {
+      "session_id": "dccf4c9f-8e1a-4064-a8b7-c67f45fbc9a0",
+      "payloads": [
+        {
+          "messages": [
+            {
+              "role": "user",
+              "content": " sons would never so dishonour me Traitor restore Lavinia to the Emperor LUCIUS Dead if you will but not to be his wife That is anothers lawful promised love Exit Enter aloft the Emperor Saturninus with Tamora and her two sons and Aaron the Moor SATURNINUS No Titus no the emperor needs her not Nor her nor thee nor any of thy stockIll trust by leisure him that mocks me once Thee never nor thy traitorous haughty sons Confederates all thus to dishonour me Was none in Rome to make a stale But Saturnine Full well Andronicus Agree these deeds with that proud brag of thine That saidst I begged the empire at thy hands TITUS O monstrous What reproachful words are these SATURNINUS But go thy ways go give that changing piece To him that flourished for her with his sword A valiant soninlaw thou shalt enjoy One fit to bandy with thy lawless sons To ruffle"
+            }
+          ],
+          "model": "mlx-community/Qwen3-4B-4bit",
+          "stream": true,
+          "max_completion_tokens": 100,
+          "stream_options": {
+            "include_usage": true
+          }
+        }
+      ]
+    },
+    {
+      "session_id": "7e245ec2-2ed0-403f-95ed-6744dc03e3ce",
+      "payloads": [
+        {
+          "messages": [
+            {
+              "role": "user",
+              "content": " shall not house with me Look tot think ont I do not use to jest Thursday is near lay hand on heart advise And you be mine Ill give you to my friend And you be not hang beg starve die in the streets For by my soul Ill neer acknowledge thee Nor what is mine shall never do thee good Trust tot bethink you Ill not be forsworn Exit JULIET Is there no pity sitting in the clouds That sees into the bottom of my grief O sweet my mother cast me not away Delay this marriage for a month a week Or if you do not make the bridal bed In that dim monument where Tybalt lies LADY CAPULET Talk not to me for Ill not speak a word Do as thou wilt for I have done with thee Exit JULIET O God O Nurse how shall this be prevented My husband is on earth my faith in heaven How shall that faith return again to earth Unless that husband send it me from heaven By leaving earth Comfort me counsel me"
+            }
+          ],
+          "model": "mlx-community/Qwen3-4B-4bit",
+          "stream": true,
+          "max_completion_tokens": 100,
+          "stream_options": {
+            "include_usage": true
+          }
+        }
+      ]
+    },
+    {
+      "session_id": "ca949b5f-a28f-421f-a0d5-26356f4f1d9e",
+      "payloads": [
+        {
+          "messages": [
+            {
+              "role": "user",
+              "content": " a thousand wrongs Or if that surly spirit melancholy Had bakd thy blood and made it heavy thick Which else runs tickling up and down the veins Making that idiot laughter keep mens eyes And strain their cheeks to idle merriment A passion hateful to my purposes Or if that thou couldst see me without eyes Hear me without thine ears and make reply Without a tongue using conceit alone Without eyes ears and harmful sound of words Then in despite of brooded watchful day I would into thy bosom pour my thoughts But ah I will not Yet I love thee well And by my troth I think thou lovst me well HUBERT So well that what you bid me undertake Though that my death were adjunct to my act By heaven I would do it KING JOHN Do not I know thou wouldst Good Hubert Hubert Hubert throw thine eye On yon young boy Ill tell thee what my friend He is a very serpent in my way And wheresoeer this foot"
+            }
+          ],
+          "model": "mlx-community/Qwen3-4B-4bit",
+          "stream": true,
+          "max_completion_tokens": 100,
+          "stream_options": {
+            "include_usage": true
+          }
+        }
+      ]
+    },
+    {
+      "session_id": "594f7ee3-014c-4e2e-8ef6-890bc3088476",
+      "payloads": [
+        {
+          "messages": [
+            {
+              "role": "user",
+              "content": " As I would be forgiven I forgive all There cannot be those numberless offences Gainst me that I cannot take peace with No black envy Shall mark my grave Commend me to his Grace And if he speak of Buckingham pray tell him You met him half in heaven My vows and prayers Yet are the Kings and till my soul forsake Shall cry for blessings on him May he live Longer than I have time to tell his years Ever beloved and loving may his rule be And when old Time shall lead him to his end Goodness and he fill up one monument LOVELL To th waterside I must conduct your Grace Then give my charge up to Sir Nicholas Vaux Who undertakes you to your end VAUX Prepare there The Duke is coming See the barge be ready And fit it with such furniture as suits The greatness of his person BUCKINGHAM Nay Sir Nicholas Let it alone My state now will but mock me When I came hither I was Lord High Constable And Duke of Buckingham now poor"
+            }
+          ],
+          "model": "mlx-community/Qwen3-4B-4bit",
+          "stream": true,
+          "max_completion_tokens": 100,
+          "stream_options": {
+            "include_usage": true
+          }
+        }
+      ]
+    },
+    {
+      "session_id": "5e6c5aeb-c4bb-4a97-8b0c-30710a676517",
+      "payloads": [
+        {
+          "messages": [
+            {
+              "role": "user",
+              "content": " goes out Go after her shes desperate govern her EDMUND What you have chargd me with that have I done And more much more the time will bring it out Tis past and so am I But what art thou That hast this fortune on me If thourt noble I do forgive thee EDGAR Lets exchange charity I am no less in blood than thou art Edmund If more the more thou hast wrongd me My name is Edgar and thy fathers son The gods are just and of our pleasant vices Make instruments to plague us The dark and vicious place where thee he got Cost him his eyes EDMUND Thou hast spoken right tis true The wheel is come full circle I am here ALBANY Methought thy very gait did prophesy A royal nobleness I must embrace thee Let sorrow split my heart if ever I Did hate thee or thy father EDGAR Worthy prince I knowt ALBANY Where have you hid yourself How have you known the miseries of your father EDG"
+            }
+          ],
+          "model": "mlx-community/Qwen3-4B-4bit",
+          "stream": true,
+          "max_completion_tokens": 100,
+          "stream_options": {
+            "include_usage": true
+          }
+        }
+      ]
+    },
+    {
+      "session_id": "af4db5d9-5bf2-4a82-99c9-04cc54ac6109",
+      "payloads": [
+        {
+          "messages": [
+            {
+              "role": "user",
+              "content": " their best studies heartily request Th enfranchisement of Arthur whose restraint Doth move the murmuring lips of discontent To break into this dangerous argument If what in rest you have in right you hold Why then your fears which as they say attend The steps of wrong should move you to mew up Your tender kinsman and to choke his days With barbarous ignorance and deny his youth The rich advantage of good exercise That the times enemies may not have this To grace occasions let it be our suit That you have bid us ask his liberty Which for our goods we do no further ask Than whereupon our weal on you depending Counts it your weal he have his liberty KING JOHN Let it be so I do commit his youth To your direction Enter Hubert Hubert what news with you Taking him apart PEMBROKE This is the man should do the bloody deed He showd his warrant to a friend of mine The image of a wicked heinous fault Lives in his eye that close aspect of"
+            }
+          ],
+          "model": "mlx-community/Qwen3-4B-4bit",
+          "stream": true,
+          "max_completion_tokens": 100,
+          "stream_options": {
+            "include_usage": true
+          }
+        }
+      ]
+    },
+    {
+      "session_id": "f6f66cc3-2363-4e33-927d-786a70da644a",
+      "payloads": [
+        {
+          "messages": [
+            {
+              "role": "user",
+              "content": "TEUS Tis love you cavil at I am not Love VALENTINE Love is your master for he masters you And he that is so yoked by a fool Methinks should not be chronicled for wise PROTEUS Yet writers say as in the sweetest bud The eating canker dwells so eating love Inhabits in the finest wits of all VALENTINE And writers say as the most forward bud Is eaten by the canker ere it blow Even so by love the young and tender wit Is turned to folly blasting in the bud Losing his verdure even in the prime And all the fair effects of future hopes But wherefore waste I time to counsel thee That art a votary to fond desire Once more adieu My father at the road Expects my coming there to see me shipped PROTEUS And thither will I bring thee Valentine VALENTINE Sweet Proteus no Now let us take our leave To Milan let me hear from thee by letters Of thy"
+            }
+          ],
+          "model": "mlx-community/Qwen3-4B-4bit",
+          "stream": true,
+          "max_completion_tokens": 100,
+          "stream_options": {
+            "include_usage": true
+          }
+        }
+      ]
+    },
+    {
+      "session_id": "34ffd7ca-b289-4a4c-b7a5-1d69f58c5300",
+      "payloads": [
+        {
+          "messages": [
+            {
+              "role": "user",
+              "content": " Worthy Menenius Agrippa one that hath always loved the people FIRST CITIZEN Hes one honest enough Would all the rest were so MENENIUS What works my countrymen in hand Where go you With bats and clubs The matter Speak I pray you FIRST CITIZEN Our business is not unknown to th Senate They have had inkling this fortnight what we intend to do which now well show em in deeds They say poor suitors have strong breaths they shall know we have strong arms too MENENIUS Why masters my good friends mine honest neighbours Will you undo yourselves FIRST CITIZEN We cannot sir we are undone already MENENIUS I tell you friends most charitable care Have the patricians of you For your wants Your suffering in this dearth you may as well Strike at the heaven with your staves as lift them Against the Roman state whose course will on The way it takes cracking ten thousand curbs Of more strong link asunder than can ever Appear"
+            }
+          ],
+          "model": "mlx-community/Qwen3-4B-4bit",
+          "stream": true,
+          "max_completion_tokens": 100,
+          "stream_options": {
+            "include_usage": true
+          }
+        }
+      ]
+    },
+    {
+      "session_id": "399dcef2-0ff9-40d5-a5b9-c3af677b3223",
+      "payloads": [
+        {
+          "messages": [
+            {
+              "role": "user",
+              "content": " die go to your knees and make ready CLAUDIO Let me ask my sister pardon I am so out of love with life that I will sue to be rid of it DUKE Hold you there Farewell Exit Claudio Enter Provost Provost a word with you PROVOST Whats your will father DUKE That now you are come you will be gone Leave me a while with the maid my mind promises with my habit no loss shall touch her by my company PROVOST In good time Exit Provost DUKE The hand that hath made you fair hath made you good The goodness that is cheap in beauty makes beauty brief in goodness but grace being the soul of your complexion shall keep the body of it ever fair The assault that Angelo hath made to you fortune hath conveyed to my understanding and but that frailty hath examples for his falling I should wonder at Angelo How will you do to content this substitute and to save your brotherISABELLA I am now going to resolve him I had rather my brother die by"
+            }
+          ],
+          "model": "mlx-community/Qwen3-4B-4bit",
+          "stream": true,
+          "max_completion_tokens": 100,
+          "stream_options": {
+            "include_usage": true
+          }
+        }
+      ]
+    },
+    {
+      "session_id": "4e27d222-872a-4fc9-b67d-a4e168608b48",
+      "payloads": [
+        {
+          "messages": [
+            {
+              "role": "user",
+              "content": " loud even in the dead of night Hallow your name to the reverberate hills And make the babbling gossip of the air Cry out Olivia O you should not rest Between the elements of air and earth But you should pity me OLIVIA You might do much What is your parentage VIOLA Above my fortunes yet my state is well I am a gentleman OLIVIA Get you to your lord I cannot love him let him send no more Unless perchance you come to me again To tell me how he takes it Fare you well I thank you for your pains spend this for me VIOLA I am no feed post lady keep your purse My master not myself lacks recompense Love make his heart of flint that you shall love And let your fervour like my masters be Placd in contempt Farewell fair cruelty Exit OLIVIA What is your parentage Above my fortunes yet my state is well I am a gentleman Ill be sworn thou art Thy tongue thy face thy limbs actions and spirit Do"
+            }
+          ],
+          "model": "mlx-community/Qwen3-4B-4bit",
+          "stream": true,
+          "max_completion_tokens": 100,
+          "stream_options": {
+            "include_usage": true
+          }
+        }
+      ]
+    }
+  ]
+}

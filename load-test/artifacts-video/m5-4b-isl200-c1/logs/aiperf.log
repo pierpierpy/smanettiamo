@@ -1,0 +1,93 @@
+2026-11-22 20:09:10.495 - GPUTelemetryJSONLWriter_c6256f51 - INFO - GPU telemetry export enabled: /home/<utente>/load-test/artifacts-video/m5-4b-isl200-c1/gpu_telemetry_export.jsonl
+2026-11-22 20:09:10.510 - OTelMetricsResultsProcessor_1dc8573d - INFO - Telemetry streaming is disabled (set --otel-url and/or --mlflow-tracking-uri to enable)
+2026-11-22 20:09:10.512 - RecordExportJSONLWriter_61a59273 - INFO - Record metrics export enabled: /home/<utente>/load-test/artifacts-video/m5-4b-isl200-c1/profile_export.jsonl
+2026-11-22 20:09:10.568 - _ServiceRegistry - INFO - Registered: Gpu_Telemetry_Manager ('gpu_telemetry_manager') [0/0]
+2026-11-22 20:09:10.569 - system_controller - INFO - Registered Gpu Telemetry Manager (id: 'gpu_telemetry_manager')
+2026-11-22 20:09:10.570 - _ServiceRegistry - INFO - Registered: Worker_Manager ('worker_manager') [0/0]
+2026-11-22 20:09:10.570 - system_controller - INFO - Registered Worker Manager (id: 'worker_manager')
+2026-11-22 20:09:10.599 - server_metrics_manager - INFO - Server Metrics: Discovered 1 endpoints: ['http://<mac>:8080/metrics']
+2026-11-22 20:09:10.670 - _ServiceRegistry - INFO - Registered: Records_Manager ('records_manager') [0/0]
+2026-11-22 20:09:10.670 - system_controller - INFO - Registered Records Manager (id: 'records_manager')
+2026-11-22 20:09:10.677 - system_controller - INFO - Registered Gpu Telemetry Manager (id: 'gpu_telemetry_manager')
+2026-11-22 20:09:10.678 - system_controller - INFO - Registered Worker Manager (id: 'worker_manager')
+2026-11-22 20:09:10.678 - _ServiceRegistry - INFO - Registered: Dataset_Manager ('dataset_manager') [0/0]
+2026-11-22 20:09:10.678 - system_controller - INFO - Registered Dataset Manager (id: 'dataset_manager')
+2026-11-22 20:09:10.678 - _ServiceRegistry - INFO - Registered: Server_Metrics_Manager ('server_metrics_manager') [0/0]
+2026-11-22 20:09:10.679 - system_controller - INFO - Registered Server Metrics Manager (id: 'server_metrics_manager')
+2026-11-22 20:09:10.681 - system_controller - INFO - Registered Records Manager (id: 'records_manager')
+2026-11-22 20:09:10.803 - system_controller - INFO - Registered Server Metrics Manager (id: 'server_metrics_manager')
+2026-11-22 20:09:10.804 - _ServiceRegistry - INFO - Registered: Record_Processor ('record_processor_09dea8dc') [0/0]
+2026-11-22 20:09:10.804 - system_controller - INFO - Registered Record Processor (id: 'record_processor_09dea8dc')
+2026-11-22 20:09:10.814 - system_controller - INFO - Registered Record Processor (id: 'record_processor_09dea8dc')
+2026-11-22 20:09:10.912 - _ServiceRegistry - INFO - Registered: Timing_Manager ('timing_manager') [0/0]
+2026-11-22 20:09:10.913 - system_controller - INFO - Registered Timing Manager (id: 'timing_manager')
+2026-11-22 20:09:10.950 - system_controller - INFO - Registered Timing Manager (id: 'timing_manager')
+2026-11-22 20:09:10.998 - system_controller - INFO - System state: initializing -> configuring
+2026-11-22 20:09:10.999 - system_controller - INFO - AIPerf System is CONFIGURING
+2026-11-22 20:09:10.999 - system_controller - INFO - Configuring all services to start profiling
+2026-11-22 20:09:11.005 - timing_manager - INFO - Waiting for dataset to be configured before configuring timing
+2026-11-22 20:09:11.006 - dataset_manager - INFO - Configuring tokenizer(s) for dataset manager
+2026-11-22 20:09:11.005 - InferenceResultParser_1332fd3d - INFO - Configuring tokenizers for inference result parser (resolve_alias: True)
+2026-11-22 20:09:11.038 - gpu_telemetry_manager - WARNING - GPU Telemetry: http://localhost:9400/metrics is not reachable
+2026-11-22 20:09:11.040 - gpu_telemetry_manager - WARNING - GPU Telemetry: http://localhost:9401/metrics is not reachable
+2026-11-22 20:09:11.050 - system_controller - INFO - DCGM telemetry skipped: no telemetry sources reachable
+2026-11-22 20:09:11.063 - system_controller - INFO - Server metrics disabled - no Prometheus endpoints reachable
+2026-11-22 20:09:11.107 - _ServiceRegistry - INFO - Registered: Worker ('worker_e0c97f68') [0/0]
+2026-11-22 20:09:11.107 - system_controller - INFO - Registered Worker (id: 'worker_e0c97f68')
+2026-11-22 20:09:11.108 - system_controller - INFO - Registered Worker (id: 'worker_e0c97f68')
+2026-11-22 20:09:13.281 - httpx - INFO - HTTP Request: GET https://huggingface.co/api/models/mlx-community/Qwen3-4B-4bit/revision/main "HTTP/1.1 200 OK"
+2026-11-22 20:09:13.290 - httpx - INFO - HTTP Request: GET https://huggingface.co/api/models/mlx-community/Qwen3-4B-4bit/revision/main "HTTP/1.1 200 OK"
+2026-11-22 20:09:13.438 - httpx - INFO - HTTP Request: GET https://huggingface.co/api/models/mlx-community/Qwen3-4B-4bit/tree/main/additional_chat_templates?recursive=false&expand=false "HTTP/1.1 404 Not Found"
+2026-11-22 20:09:13.444 - httpx - INFO - HTTP Request: GET https://huggingface.co/api/models/mlx-community/Qwen3-4B-4bit/tree/main/additional_chat_templates?recursive=false&expand=false "HTTP/1.1 404 Not Found"
+2026-11-22 20:09:13.572 - httpx - INFO - HTTP Request: GET https://huggingface.co/api/models/mlx-community/Qwen3-4B-4bit/tree/main?recursive=true&expand=false "HTTP/1.1 200 OK"
+2026-11-22 20:09:13.599 - httpx - INFO - HTTP Request: GET https://huggingface.co/api/models/mlx-community/Qwen3-4B-4bit/tree/main?recursive=true&expand=false "HTTP/1.1 200 OK"
+2026-11-22 20:09:14.430 - httpx - INFO - HTTP Request: GET https://huggingface.co/api/models/mlx-community/Qwen3-4B-4bit "HTTP/1.1 200 OK"
+2026-11-22 20:09:14.433 - InferenceResultParser_1332fd3d - INFO - Initialized tokenizers: {'mlx-community/Qwen3-4B-4bit': {'class': 'Qwen2Tokenizer', 'name_or_path': 'mlx-community/Qwen3-4B-4bit'}} in 3.42 seconds
+2026-11-22 20:09:14.445 - httpx - INFO - HTTP Request: GET https://huggingface.co/api/models/mlx-community/Qwen3-4B-4bit "HTTP/1.1 200 OK"
+2026-11-22 20:09:14.448 - dataset_manager - INFO - Tokenizer(s) configured in 3.44 seconds
+2026-11-22 20:09:14.448 - dataset_manager - INFO - Configuring dataset for dataset_manager
+2026-11-22 20:09:15.623 - MemoryMapDatasetBackingStore_9f2b6a2d - INFO - Memory-mapped backing store initialized (streaming to /tmp/aiperf_mmap_3b9febab6d1f/dataset.dat)
+2026-11-22 20:09:15.625 - MemoryMapDatasetBackingStore_9f2b6a2d - INFO - Data file finalized: 10 conversations, 0.02 MB
+2026-11-22 20:09:15.626 - MemoryMapDatasetBackingStore_9f2b6a2d - INFO - Index file created: /tmp/aiperf_mmap_3b9febab6d1f/index.dat
+2026-11-22 20:09:15.627 - dataset_manager - INFO - Backing store finalized: client_type=DatasetClientStoreType.MEMORY_MAP format=MemoryMapFormat.CONVERSATION data_file_path=PosixPath('/tmp/aiperf_mmap_3b9febab6d1f/dataset.dat') index_file_path=PosixPath('/tmp/aiperf_mmap_3b9febab6d1f/index.dat') conversation_count=10 total_size_bytes=18041 compressed=False compressed_data_file_path=None compressed_index_file_path=None compressed_size_bytes=0
+2026-11-22 20:09:15.627 - dataset_manager - INFO - sampling strategy: sequential, unique conversations: 10, unique turn count: 10
+2026-11-22 20:09:15.628 - dataset_manager - INFO - Generating inputs.json file at /home/<utente>/load-test/artifacts-video/m5-4b-isl200-c1/inputs.json
+2026-11-22 20:09:15.632 - dataset_manager - INFO - inputs.json file generated in 0.00 seconds
+2026-11-22 20:09:15.641 - PhaseOrchestrator_0f1f7f73 - INFO - Initialized 2 phase(s): ['Warmup', 'Profiling']
+2026-11-22 20:09:15.909 - dataset_manager - INFO - Dataset client initialized and freed 10 conversations from memory
+2026-11-22 20:09:15.909 - dataset_manager - INFO - Dataset configured in 1.46 seconds
+2026-11-22 20:09:15.910 - system_controller - INFO - All services configured in 4.91 seconds
+2026-11-22 20:09:15.910 - system_controller - INFO - System state: configuring -> ready
+2026-11-22 20:09:15.910 - system_controller - INFO - AIPerf System is CONFIGURED
+2026-11-22 20:09:15.913 - system_controller - INFO - All services started profiling successfully
+2026-11-22 20:09:15.913 - system_controller - INFO - System state: ready -> profiling
+2026-11-22 20:09:15.913 - system_controller - INFO - AIPerf System is PROFILING
+2026-11-22 20:09:15.913 - system_controller - INFO - Waiting for result domains: profile
+2026-11-22 20:09:15.916 - RateTiming - INFO - Creating interval generator: pattern=concurrency_burst, rate=None, smoothness=None
+2026-11-22 20:09:15.917 - PhaseRunner - NOTICE - Phase warmup (warmup) started | phase_index=0 | target: 1 requests
+2026-11-22 20:09:15.918 - records_manager - INFO - Credit phase start: warmup
+2026-11-22 20:09:15.918 - RateTiming - INFO - Rate loop pacing via timerfd (kernel hrtimer)
+2026-11-22 20:09:15.919 - PhaseRunner - NOTICE - Phase warmup (warmup) sending complete | sent=1, completed=0, in_flight=1 | sessions: sent=1, completed=0
+2026-11-22 20:09:17.857 - PhaseRunner - NOTICE - Phase warmup (warmup) complete | completed=1, cancelled=0, errors=0 | sessions: completed=1, cancelled=0 | elapsed=1.94s
+2026-11-22 20:09:17.858 - RateTiming - INFO - Creating interval generator: pattern=concurrency_burst, rate=None, smoothness=None
+2026-11-22 20:09:17.859 - PhaseRunner - NOTICE - Phase profiling (profiling) started | phase_index=1 | profiling_index=0 | target: 10 requests
+2026-11-22 20:09:17.860 - RateTiming - INFO - Rate loop pacing via timerfd (kernel hrtimer)
+2026-11-22 20:09:17.860 - records_manager - INFO - Credit phase start: profiling
+2026-11-22 20:09:29.181 - PhaseRunner - NOTICE - Phase profiling (profiling) sending complete | sent=10, completed=9, in_flight=1 | sessions: sent=10, completed=9
+2026-11-22 20:09:29.183 - records_manager - INFO - Sent 10 requests. Waiting for all to complete...
+2026-11-22 20:09:30.345 - PhaseRunner - NOTICE - Phase profiling (profiling) complete | completed=10, cancelled=0, errors=0 | sessions: completed=10, cancelled=0 | elapsed=12.49s
+2026-11-22 20:09:30.345 - PhaseOrchestrator_0f1f7f73 - NOTICE - All credits completed
+2026-11-22 20:09:30.346 - records_manager - INFO - Received CREDIT_PHASE_COMPLETE message, Phase complete: PhaseRecordsStats(phase=CreditPhase.PROFILING, phase_index=1, profiling_index=0, phase_name='profiling', phase_kind='profiling', start_ns=1795374557859047440, sent_end_ns=1795374569181735581, requests_end_ns=1795374570344936121, baseline_start_ns=1795374557859018543, baseline_end_ns=1795374570344949850, total_expected_requests=10, expected_duration_sec=None, expected_num_sessions=None, expected_grace_period_sec=None, final_requests_sent=None, final_requests_completed=10, final_requests_cancelled=0, final_request_errors=0, final_sent_sessions=None, final_completed_sessions=None, final_cancelled_sessions=None, timeout_triggered=False, grace_period_timeout_triggered=False, was_cancelled=False, records_end_ns=None, success_records=9, error_records=0)
+2026-11-22 20:09:30.347 - records_manager - NOTICE - All requests have completed, please wait for the results to be processed (currently 9 of 10 records processed)...
+2026-11-22 20:09:30.347 - records_manager - INFO - All credits complete, please wait for the results to be processed...
+2026-11-22 20:09:30.352 - records_manager - INFO - Processed 10 valid requests and 0 errors (10 total).
+2026-11-22 20:09:30.352 - records_manager - INFO - Received all records, processing now...
+2026-11-22 20:09:30.352 - system_controller - INFO - Received credits complete from 'timing_manager'
+2026-11-22 20:09:30.353 - system_controller - INFO - System state: profiling -> processing
+2026-11-22 20:09:30.357 - records_manager - INFO - Processing records results...
+2026-11-22 20:09:30.411 - records_manager - INFO - _finalize_and_process_results completed
+2026-11-22 20:09:30.424 - system_controller - INFO - System state: processing -> stopping
+2026-11-22 20:09:30.424 - system_controller - INFO - All results received, initiating shutdown
+2026-11-22 20:09:30.433 - system_controller - INFO - System state: stopping -> shutdown
+2026-11-22 20:09:31.137 - ExporterManager - INFO - Exporting all records
+2026-11-22 20:09:31.220 - ExporterManager - INFO - Exporting console data

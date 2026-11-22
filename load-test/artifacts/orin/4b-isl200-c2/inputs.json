@@ -1,0 +1,194 @@
+{
+  "data": [
+    {
+      "session_id": "f43dca11-409c-418e-a8c8-31b0991f837f",
+      "payloads": [
+        {
+          "messages": [
+            {
+              "role": "user",
+              "content": "TRAM Our interpreter does it well FIRST LORD Excellently FIRST SOLDIER Reads Dian the Counts a fool and full of gold PAROLLES That is not the dukes letter sir that is an advertisement to a proper maid in Florence one Diana to take heed of the allurement of one Count Rossillon a foolish idle boy but for all that very ruttish I pray you sir put it up again FIRST SOLDIER Nay Ill read it first by your favour PAROLLES My meaning int I protest was very honest in the behalf of the maid for I knew the young count to be a dangerous and lascivious boy who is a whale to virginity and devours up all the fry it finds BERTRAM Damnable both sides rogue FIRST SOLDIER Reads When he swears oaths bid him drop gold and take it After he scores he never pays the score Half won is match well made match and well make it He neer pays afterdebts take it before And say a soldier Dian told"
+            }
+          ],
+          "model": "mlx-community/Qwen3-4B-4bit",
+          "stream": true,
+          "max_completion_tokens": 100,
+          "stream_options": {
+            "include_usage": true
+          }
+        }
+      ]
+    },
+    {
+      "session_id": "5df46c28-55a3-41b0-95ed-7739c2a56971",
+      "payloads": [
+        {
+          "messages": [
+            {
+              "role": "user",
+              "content": " To Alonso Sir we were talking that our garments seem now as fresh as when we were at Tunis at the marriage of your daughter who is now Queen ANTONIO And the rarest that eer came there SEBASTIAN Bate I beseech you widow Dido ANTONIO O widow Dido ay widow Dido GONZALO Is not sir my doublet as fresh as the first day I wore it I mean in a sort ANTONIO That sort was well fishd for GONZALO When I wore it at your daughters marriage ALONSO You cram these words into mine ears against The stomach of my sense Would I had never Married my daughter there for coming thence My son is lost and in my rate she too Who is so far from Italy removed I neer again shall see her O thou mine heir Of Naples and of Milan what strange fish Hath made his meal on thee FRANCISCO Sir he may live I saw him beat the surges under him And"
+            }
+          ],
+          "model": "mlx-community/Qwen3-4B-4bit",
+          "stream": true,
+          "max_completion_tokens": 100,
+          "stream_options": {
+            "include_usage": true
+          }
+        }
+      ]
+    },
+    {
+      "session_id": "79e52502-29d1-4f25-814f-50335d332541",
+      "payloads": [
+        {
+          "messages": [
+            {
+              "role": "user",
+              "content": "row worthy Caesar I come to fetch you to the Senatehouse CAESAR And you are come in very happy time To bear my greeting to the Senators And tell them that I will not come today Cannot is false and that I dare not falser I will not come today Tell them so Decius CALPHURNIA Say he is sick CAESAR Shall Caesar send a lie Have I in conquest stretchd mine arm so far To be afeard to tell greybeards the truth Decius go tell them Caesar will not come DECIUS Most mighty Caesar let me know some cause Lest I be laughd at when I tell them so CAESAR The cause is in my will I will not come That is enough to satisfy the Senate But for your private satisfaction Because I love you I will let you know Calphurnia here my wife stays me at home She dreamt tonight she saw my statue Which like a fountain with an hundred spouts Did run pure blood and many lusty Romans"
+            }
+          ],
+          "model": "mlx-community/Qwen3-4B-4bit",
+          "stream": true,
+          "max_completion_tokens": 100,
+          "stream_options": {
+            "include_usage": true
+          }
+        }
+      ]
+    },
+    {
+      "session_id": "06c339f7-3e23-4aee-a430-147f9750048e",
+      "payloads": [
+        {
+          "messages": [
+            {
+              "role": "user",
+              "content": " had donet Their hands and faces were all badgd with blood So were their daggers which unwipd we found Upon their pillows They stard and were distracted No mans life was to be trusted with them MACBETH O yet I do repent me of my fury That I did kill them MACDUFF Wherefore did you so MACBETH Who can be wise amazd temperate and furious Loyal and neutral in a moment No man Th expedition of my violent love Outrun the pauser reason Here lay Duncan His silver skin lacd with his golden blood And his gashd stabs lookd like a breach in nature For ruins wasteful entrance there the murderers Steepd in the colours of their trade their daggers Unmannerly breechd with gore Who could refrain That had a heart to love and in that heart Courage to makes love known LADY MACBETH Help me hence ho MACDUFF Look to the lady MALCOLM Why do we hold our"
+            }
+          ],
+          "model": "mlx-community/Qwen3-4B-4bit",
+          "stream": true,
+          "max_completion_tokens": 100,
+          "stream_options": {
+            "include_usage": true
+          }
+        }
+      ]
+    },
+    {
+      "session_id": "21f5e0f3-2ee7-4700-91fd-5367558757d4",
+      "payloads": [
+        {
+          "messages": [
+            {
+              "role": "user",
+              "content": " Nor hold him up with hopes I am not for him If that the youth will come this way tomorrow Ill give him reasons fort Hie thee Malvolio MALVOLIO Madam I will Exit OLIVIA I do I know not what and fear to find Mine eye too great a flatterer for my mind Fate show thy force ourselves we do not owe What is decreed must be and be this so Exit ACT II SCENE I The seacoast Enter Antonio and Sebastian ANTONIO Will you stay no longer Nor will you not that I go with you SEBASTIAN By your patience no my stars shine darkly over me the malignancy of my fate might perhaps distemper yours therefore I shall crave of you your leave that I may bear my evils alone It were a bad recompense for your love to lay any of them on you ANTONIO Let me know of you whither you are bound SEBASTIAN No sooth sir my determinate voyage is mere"
+            }
+          ],
+          "model": "mlx-community/Qwen3-4B-4bit",
+          "stream": true,
+          "max_completion_tokens": 100,
+          "stream_options": {
+            "include_usage": true
+          }
+        }
+      ]
+    },
+    {
+      "session_id": "1be6a97b-eab2-4c22-87c8-0a7b9c3ec24f",
+      "payloads": [
+        {
+          "messages": [
+            {
+              "role": "user",
+              "content": "ioch PHILEMON servant to Cerimon LEONINE servant to Dionyza Marshal A Pandar BOULT his servant The Daughter of Antiochus DIONYZA wife to Cleon THAISA daughter to Simonides MARINA daughter to Pericles and Thaisa LYCHORIDA nurse to Marina A Bawd Lords Knights Gentlemen Sailors Pirates Fishermen and Messengers DIANA GOWER as Chorus SCENE Dispersedly in various countries ACT I Enter Gower Before the palace of Antioch To sing a song that old was sung From ashes ancient Gower is come Assuming mans infirmities To glad your ear and please your eyes It hath been sung at festivals On embereves and holyales And lords and ladies in their lives Have read it for restoratives The purchase is to make men glorious Et bonum quo antiquius eo melius If you born in these latter times When wits more ripe accept my rhymes And that to hear an old"
+            }
+          ],
+          "model": "mlx-community/Qwen3-4B-4bit",
+          "stream": true,
+          "max_completion_tokens": 100,
+          "stream_options": {
+            "include_usage": true
+          }
+        }
+      ]
+    },
+    {
+      "session_id": "dc0a24ca-248f-431d-bc0e-c536b0cfea32",
+      "payloads": [
+        {
+          "messages": [
+            {
+              "role": "user",
+              "content": " With all his threatening band of Typhons brood Nor great Alcides nor the god of war Shall seize this prey out of his fathers hands What what ye sanguine shallowhearted boys Ye whitelimed walls ye alehousepainted signs Coalblack is better than another hue In that it scorns to bear another hue For all the water in the ocean Can never turn the swans black legs to white Although she lave them hourly in the flood Tell the empress from me I am of age To keep mine own excuse it how she can DEMETRIUS Wilt thou betray thy noble mistress thus AARON My mistress is my mistress this my self The vigour and the picture of my youth This before all the world do I prefer This maugre all the world will I keep safe Or some of you shall smoke for it in Rome DEMETRIUS By this our mother is for ever shamed CHIRON Rome will despise her for this foul escape NURSE"
+            }
+          ],
+          "model": "mlx-community/Qwen3-4B-4bit",
+          "stream": true,
+          "max_completion_tokens": 100,
+          "stream_options": {
+            "include_usage": true
+          }
+        }
+      ]
+    },
+    {
+      "session_id": "54efa66b-9ca3-4709-ad68-69bc0c67a6f2",
+      "payloads": [
+        {
+          "messages": [
+            {
+              "role": "user",
+              "content": " could not say Amen When they did say God bless us LADY MACBETH Consider it not so deeply MACBETH But wherefore could not I pronounce Amen I had most need of blessing and Amen Stuck in my throat LADY MACBETH These deeds must not be thought After these ways so it will make us mad MACBETH Methought I heard a voice cry Sleep no more Macbeth does murder sleepthe innocent sleep Sleep that knits up the ravelld sleave of care The death of each days life sore labours bath Balm of hurt minds great natures second course Chief nourisher in lifes feast LADY MACBETH What do you mean MACBETH Still it cried Sleep no more to all the house Glamis hath murderd sleep and therefore Cawdor Shall sleep no more Macbeth shall sleep no more LADY MACBETH Who was it that thus cried Why worthy thane You do unbend your noble strength to think So brainsick"
+            }
+          ],
+          "model": "mlx-community/Qwen3-4B-4bit",
+          "stream": true,
+          "max_completion_tokens": 100,
+          "stream_options": {
+            "include_usage": true
+          }
+        }
+      ]
+    },
+    {
+      "session_id": "5bd2c3a4-d85f-467c-8f33-1b2da4075c3c",
+      "payloads": [
+        {
+          "messages": [
+            {
+              "role": "user",
+              "content": " my heart Which is the bell So sighs and tears and groans Show minutes times and hours But my time Runs posting on in Bolingbrokes proud joy While I stand fooling here his Jack o the clock This music mads me Let it sound no more For though it have holp madmen to their wits In me it seems it will make wise men mad Yet blessing on his heart that gives it me For tis a sign of love and love to Richard Is a strange brooch in this allhating world Enter a Groom of the stable GROOM Hail royal Prince RICHARD Thanks noble peer The cheapest of us is ten groats too dear What art thou and how comest thou hither Where no man never comes but that sad dog That brings me food to make misfortune live GROOM I was a poor groom of thy stable king When thou wert king who travelling towards York With much ado at length have gotten leave To look upon my sometimes royal masters face O"
+            }
+          ],
+          "model": "mlx-community/Qwen3-4B-4bit",
+          "stream": true,
+          "max_completion_tokens": 100,
+          "stream_options": {
+            "include_usage": true
+          }
+        }
+      ]
+    },
+    {
+      "session_id": "0e99fbd8-79eb-4f56-a179-7f07fb8d55e9",
+      "payloads": [
+        {
+          "messages": [
+            {
+              "role": "user",
+              "content": " it must be as it may he passes some humours and careers PISTOL Let us condole the knight for lambkins we will live Exeunt SCENE II Southampton A councilchamber Enter Exeter Bedford and Westmorland BEDFORD Fore God his Grace is bold to trust these traitors EXETER They shall be apprehended by and by WESTMORLAND How smooth and even they do bear themselves As if allegiance in their bosoms sat Crowned with faith and constant loyalty BEDFORD The King hath note of all that they intend By interception which they dream not of EXETER Nay but the man that was his bedfellow Whom he hath dulld and cloyd with gracious favours That he should for a foreign purse so sell His sovereigns life to death and treachery Trumpets sound Enter King Henry Scroop Cambridge and Grey KING HENRY Now sits the wind fair and we will aboard My Lord of Cambridge and my kind Lord of Masham And you my"
+            }
+          ],
+          "model": "mlx-community/Qwen3-4B-4bit",
+          "stream": true,
+          "max_completion_tokens": 100,
+          "stream_options": {
+            "include_usage": true
+          }
+        }
+      ]
+    }
+  ]
+}

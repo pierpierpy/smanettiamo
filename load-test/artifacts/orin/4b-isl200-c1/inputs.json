@@ -1,0 +1,194 @@
+{
+  "data": [
+    {
+      "session_id": "6e1f3ad5-7031-4db4-b869-302018a800fe",
+      "payloads": [
+        {
+          "messages": [
+            {
+              "role": "user",
+              "content": " companyWill you along BRUTUS We stay here for the people SICINIUS Fare you well Exeunt Coriolanus and Menenius He has it now and by his looks methinks Tis warm at his heart BRUTUS With a proud heart he wore His humble weeds Will you dismiss the people Enter the Pebleians SICINIUS How now my masters have you chose this man FIRST CITIZEN He has our voices sir BRUTUS We pray the gods he may deserve your loves SECOND CITIZEN Amen sir To my poor unworthy notice He mocked us when he begged our voices THIRD CITIZEN Certainly he flouted us downright FIRST CITIZEN No tis his kind of speech He did not mock us SECOND CITIZEN Not one amongst us save yourself but says He used us scornfully He should have showed us His marks of merit wounds received fors country SICINIUS Why so he did I am sure ALL No no No man saw em THIRD CITIZEN"
+            }
+          ],
+          "model": "mlx-community/Qwen3-4B-4bit",
+          "stream": true,
+          "max_completion_tokens": 100,
+          "stream_options": {
+            "include_usage": true
+          }
+        }
+      ]
+    },
+    {
+      "session_id": "2c4c0194-0acf-44a6-817b-a83c483f9c6b",
+      "payloads": [
+        {
+          "messages": [
+            {
+              "role": "user",
+              "content": " I have For why thou leftst me nothing in thy will And yet thou leftst me more than I did crave For why I craved nothing of thee still O yes dear friend I pardon crave of thee Thy discontent thou didst bequeath to me XI Venus with young Adonis sitting by her Under a myrtle shade began to woo him She told the youngling how god Mars did try her And as he fell to her she fell to him Even thus quoth she the warlike god embracd me And then she clippd Adonis in her arms Even thus quoth she the warlike god unlaced me As if the boy should use like loving charms Even thus quoth she he seized on my lips And with her lips on his did act the seizure And as she fetched breath away he skips And would not take her meaning nor her pleasure Ah that I had my lady at this bay To kiss and clip me till I run away XII Crabbed age and youth cannot live together Youth is"
+            }
+          ],
+          "model": "mlx-community/Qwen3-4B-4bit",
+          "stream": true,
+          "max_completion_tokens": 100,
+          "stream_options": {
+            "include_usage": true
+          }
+        }
+      ]
+    },
+    {
+      "session_id": "1a168eb5-85b9-4f61-8408-b5fcd6adc46f",
+      "payloads": [
+        {
+          "messages": [
+            {
+              "role": "user",
+              "content": " as many oaths as I spake words and broke them in the sweet face of heaven One that slept in the contriving of lust and waked to do it Wine loved I deeply dice dearly and in woman outparamourd the Turk False of heart light of ear bloody of hand hog in sloth fox in stealth wolf in greediness dog in madness lion in prey Let not the creaking of shoes nor the rustling of silks betray thy poor heart to woman Keep thy foot out of brothels thy hand out of plackets thy pen from lenders book and defy the foul fiend Still through the hawthorn blows the cold wind says suum mun nonny Dolphin my boy boy sessa let him trot by Storm still continues LEAR Why thou wert better in thy grave than to answer with thy uncovered body this extremity of the skies Is man no more than this Consider him well Thou owest the worm no silk the beast no hide the sheep no wool the cat no perfume Ha"
+            }
+          ],
+          "model": "mlx-community/Qwen3-4B-4bit",
+          "stream": true,
+          "max_completion_tokens": 100,
+          "stream_options": {
+            "include_usage": true
+          }
+        }
+      ]
+    },
+    {
+      "session_id": "aa96a3a8-6d1a-422f-b287-33ff7085e0be",
+      "payloads": [
+        {
+          "messages": [
+            {
+              "role": "user",
+              "content": " words I marvel thy master hath not eaten thee for a word for thou art not so long by the head as honorificabilitudinitatibus Thou art easier swallowed than a flapdragon MOTH Peace The peal begins ARMADO To Holofernes Monsieur are you not lettered MOTH Yes yes he teaches boys the hornbook What is a b spelt backward with the horn on his head HOLOFERNES Ba pueritia with a horn added MOTH Ba most silly sheep with a horn You hear his learning HOLOFERNES Quis quis thou consonant MOTH The third of the five vowels if you repeat them or the fifth if I HOLOFERNES I will repeat them a e i MOTH The sheep The other two concludes it o u ARMADO Now by the salt wave of the Mediterraneum a sweet touch a quick venue of wit Snip snap quick and home It rejoiceth my intellect True wit MOTH Offered by a child to"
+            }
+          ],
+          "model": "mlx-community/Qwen3-4B-4bit",
+          "stream": true,
+          "max_completion_tokens": 100,
+          "stream_options": {
+            "include_usage": true
+          }
+        }
+      ]
+    },
+    {
+      "session_id": "15117747-f5e6-4548-aeb9-3f504a573f60",
+      "payloads": [
+        {
+          "messages": [
+            {
+              "role": "user",
+              "content": " V A more remote part of the Castle ACT II Scene I A room in Poloniuss house Scene II A room in the Castle ACT III Scene I A room in the Castle Scene II A hall in the Castle Scene III A room in the Castle Scene IV Another room in the Castle ACT IV Scene I A room in the Castle Scene II Another room in the Castle Scene III Another room in the Castle Scene IV A plain in Denmark Scene V Elsinore A room in the Castle Scene VI Another room in the Castle Scene VII Another room in the Castle ACT V Scene I A churchyard Scene II A hall in the Castle Dramatis Person HAMLET Prince of Denmark CLAUDIUS King of Denmark Hamlets uncle The GHOST of the late king Hamlets father GERTRUDE the Queen Hamlets mother now wife of ClaudiusPOLONIUS Lord Chamberlain LAERTES Son to Polonius OPHELIA Daughter to Polonius HORATIO Friend to Hamlet FORTINBRAS"
+            }
+          ],
+          "model": "mlx-community/Qwen3-4B-4bit",
+          "stream": true,
+          "max_completion_tokens": 100,
+          "stream_options": {
+            "include_usage": true
+          }
+        }
+      ]
+    },
+    {
+      "session_id": "6f488601-b340-4894-91e2-36ca3a2364fd",
+      "payloads": [
+        {
+          "messages": [
+            {
+              "role": "user",
+              "content": " these islanders shout out Vive le Roi as I have bankd their towns Have I not here the best cards for the game To win this easy match playd for a crown And shall I now give oer the yielded set No no on my soul it never shall be said PANDULPH You look but on the outside of this work LOUIS Outside or inside I will not return Till my attempt so much be glorified As to my ample hope was promised Before I drew this gallant head of war And culld these fiery spirits from the world To outlook conquest and to win renown Even in the jaws of danger and of death Trumpet sounds What lusty trumpet thus doth summon us Enter the Bastard attended BASTARD According to the fair play of the world Let me have audience I am sent to speak My holy lord of Milan from the King I come to learn how you have dealt for him And as you answer I do know the scope And warrant limited unto my tongue PANDUL"
+            }
+          ],
+          "model": "mlx-community/Qwen3-4B-4bit",
+          "stream": true,
+          "max_completion_tokens": 100,
+          "stream_options": {
+            "include_usage": true
+          }
+        }
+      ]
+    },
+    {
+      "session_id": "8d805607-9de6-4400-bb02-7265af8fe46b",
+      "payloads": [
+        {
+          "messages": [
+            {
+              "role": "user",
+              "content": " what I list nor I list not to think what I can nor indeed I cannot think if I would think my heart out of thinking that you are in love or that you will be in love or that you can be in love Yet Benedick was such another and now is he become a man he swore he would never marry and yet now in despite of his heart he eats his meat without grudging and how you may be converted I know not but methinks you look with your eyes as other women do BEATRICE What pace is this that thy tongue keeps MARGARET Not a false gallop Reenter Ursula URSULA Madam withdraw the Prince the Count Signior Benedick Don John and all the gallants of the town are come to fetch you to church HERO Help to dress me good coz good Meg good Ursula Exeunt Scene V Another Room in Leonatos House Enter Leonato and Dogberry and Verges LEONATO What would you with me honest neighbourDOGB"
+            }
+          ],
+          "model": "mlx-community/Qwen3-4B-4bit",
+          "stream": true,
+          "max_completion_tokens": 100,
+          "stream_options": {
+            "include_usage": true
+          }
+        }
+      ]
+    },
+    {
+      "session_id": "058e3533-0845-42e0-8b4a-fc4c85aeb1cd",
+      "payloads": [
+        {
+          "messages": [
+            {
+              "role": "user",
+              "content": "UBERT Do but hear me sir BASTARD Ha Ill tell thee what Thourt damnd as blacknay nothing is so black Thou art more deep damnd than Prince Lucifer There is not yet so ugly a fiend of hell As thou shalt be if thou didst kill this child HUBERT Upon my soul BASTARD If thou didst but consent To this most cruel act do but despair And if thou wantst a cord the smallest thread That ever spider twisted from her womb Will serve to strangle thee a rush will be a beam To hang thee on or wouldst thou drown thyself Put but a little water in a spoon And it shall be as all the ocean Enough to stifle such a villain up I do suspect thee very grievously HUBERT If I in act consent or sin of thought Be guilty of the stealing that sweet breathWhich was embounded in this beauteous clay Let hell want pains enough to torture me I left him well BASTARD Go bear"
+            }
+          ],
+          "model": "mlx-community/Qwen3-4B-4bit",
+          "stream": true,
+          "max_completion_tokens": 100,
+          "stream_options": {
+            "include_usage": true
+          }
+        }
+      ]
+    },
+    {
+      "session_id": "ae1d99eb-d23d-4957-8631-bf8ab9560011",
+      "payloads": [
+        {
+          "messages": [
+            {
+              "role": "user",
+              "content": " that old whitebearded SatanFALSTAFF My lord the man I know PRINCE I know thou dost FALSTAFF But to say I know more harm in him than in myself were to say more than I know That he is old the more the pity his white hairs do witness it But that he is saving your reverence a whoremaster that I utterly deny If sack and sugar be a fault God help the wicked If to be old and merry be a sin then many an old host that I know is damned If to be fat be to be hated then Pharaohs lean kine are to be loved No my good lord banish Peto banish Bardolph banish Poins but for sweet Jack Falstaff kind Jack Falstaff true Jack Falstaff valiant Jack Falstaff and therefore more valiant being as he is old Jack Falstaff banish not him thy Harrys company banish not him thy Harrys company Banish plump Jack and banish all the world PR"
+            }
+          ],
+          "model": "mlx-community/Qwen3-4B-4bit",
+          "stream": true,
+          "max_completion_tokens": 100,
+          "stream_options": {
+            "include_usage": true
+          }
+        }
+      ]
+    },
+    {
+      "session_id": "95a0bbde-2c59-40a4-825d-ea9b2f1d459b",
+      "payloads": [
+        {
+          "messages": [
+            {
+              "role": "user",
+              "content": " Will 137 Thou blind fool Love what dost thou to mine eyes That they behold and see not what they see They know what beauty is see where it lies Yet what the best is take the worst to be If eyes corrupt by overpartial looks Be anchored in the bay where all men ride Why of eyes falsehood hast thou forged hooks Whereto the judgement of my heart is tied Why should my heart think that a several plot Which my heart knows the wide worlds common place Or mine eyes seeing this say this is not To put fair truth upon so foul a face In things right true my heart and eyes have erred And to this false plague are they now transferred 138 When my love swears that she is made of truth I do believe her though I know she lies That she might think me some untutored youth Unlearned in the worlds false subtleties Thus vainly thinking that she thinks me young Although she knows my days are past the best Simply I credit her fals"
+            }
+          ],
+          "model": "mlx-community/Qwen3-4B-4bit",
+          "stream": true,
+          "max_completion_tokens": 100,
+          "stream_options": {
+            "include_usage": true
+          }
+        }
+      ]
+    }
+  ]
+}

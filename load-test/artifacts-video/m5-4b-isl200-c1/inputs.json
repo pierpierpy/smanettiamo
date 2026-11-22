@@ -1,0 +1,194 @@
+{
+  "data": [
+    {
+      "session_id": "a984b07e-0157-42d9-8c94-b3f9c95cd171",
+      "payloads": [
+        {
+          "messages": [
+            {
+              "role": "user",
+              "content": "ER You are sent for to the Capitol Tis thought That Martius shall be consul I have seen The dumb men throng to see him and the blind to hear him speak matrons flung gloves Ladies and maids their scarves and handkerchiefs Upon him as he passed the nobles bended As to Joves statue and the Commons made A shower and thunder with their caps and shouts I never saw the like BRUTUS Lets to the Capitol And carry with us ears and eyes for th time But hearts for the event SICINIUS Have with you Exeunt SCENE II Rome The Capitol Enter two Officers to lay cushions as it were in the Capitol FIRST OFFICER Come come They are almost here How many stand for consulships SECOND OFFICER Three they say but tis thought of everyone Coriolanus will carry it FIRST OFFICER Thats a brave fellow but hes vengeance proud and loves not the common people SECOND OFFICER Faith there have been many great men"
+            }
+          ],
+          "model": "mlx-community/Qwen3-4B-4bit",
+          "stream": true,
+          "max_completion_tokens": 100,
+          "stream_options": {
+            "include_usage": true
+          }
+        }
+      ]
+    },
+    {
+      "session_id": "88e56612-acdc-43cb-9e5f-bbc548525c7c",
+      "payloads": [
+        {
+          "messages": [
+            {
+              "role": "user",
+              "content": " English may as French French Englishmen Receive each other God speak this Amen ALL Amen KING HENRY Prepare we for our marriage on which day My Lord of Burgundy well take your oath And all the peers for surety of our leagues Then shall I swear to Kate and you to me And may our oaths well kept and prosperous be Sennet Exeunt EPILOGUE Enter Chorus CHORUS Thus far with rough and allunable pen Our bending author hath pursud the story In little room confining mighty men Mangling by starts the full course of their glory Small time but in that small most greatly lived This star of England Fortune made his sword By which the worlds best garden he achieved And of it left his son imperial lord Henry the Sixth in infant bands crownd King Of France and England did this king succeed Whose state so many had the managing That they lost France and made his England bleed Which oft our stage hath shown and for their sake In your fair minds let this acceptance"
+            }
+          ],
+          "model": "mlx-community/Qwen3-4B-4bit",
+          "stream": true,
+          "max_completion_tokens": 100,
+          "stream_options": {
+            "include_usage": true
+          }
+        }
+      ]
+    },
+    {
+      "session_id": "155a526b-a132-4124-a5a7-f8b26713b419",
+      "payloads": [
+        {
+          "messages": [
+            {
+              "role": "user",
+              "content": " thou setst on thy wife ANTIGONUS I did not sir These lords my noble fellows if they please Can clear me in t LORDS We can my royal liege He is not guilty of her coming hither LEONTES Youre liars all FIRST LORD Beseech your highness give us better credit We have always truly servd you and beseech So to esteem of us And on our knees we beg As recompense of our dear services Past and to come that you do change this purpose Which being so horrible so bloody must Lead on to some foul issue We all kneel LEONTES I am a feather for each wind that blows Shall I live on to see this bastard kneel And call me father better burn it now Than curse it then But be it let it live It shall not neither To Antigonus You sir come you hither You that have been so tenderly officious With Lady Margery your midwife there To save this bastards lifefor t"
+            }
+          ],
+          "model": "mlx-community/Qwen3-4B-4bit",
+          "stream": true,
+          "max_completion_tokens": 100,
+          "stream_options": {
+            "include_usage": true
+          }
+        }
+      ]
+    },
+    {
+      "session_id": "ab59168d-5791-4431-a7ed-ced43a38f634",
+      "payloads": [
+        {
+          "messages": [
+            {
+              "role": "user",
+              "content": " Ever was Palamon fair Palamon And Palamon was a tall young man The place Was kneedeep where she sat her careless tresses A wreath of bulrush rounded about her stuck Thousand fresh waterflowers of several colours That methought she appeared like the fair nymph That feeds the lake with waters or as Iris Newly dropped down from heaven Rings she made Of rushes that grew by and to em spoke The prettiest posies Thus our true loves tied This you may loose not me and many a oneAnd then she wept and sung again and sighed And with the same breath smiled and kissed her hand SECOND FRIEND Alas what pity it is WOOER I made in to her She saw me and straight sought the flood I saved her And set her safe to land when presently She slipped away and to the city made With such a cry and swiftness that believe me She left me far behind her Three or four I saw from far off cross herone of em I knew to be your"
+            }
+          ],
+          "model": "mlx-community/Qwen3-4B-4bit",
+          "stream": true,
+          "max_completion_tokens": 100,
+          "stream_options": {
+            "include_usage": true
+          }
+        }
+      ]
+    },
+    {
+      "session_id": "bedc91ef-496f-4d14-962d-3a601fd4c846",
+      "payloads": [
+        {
+          "messages": [
+            {
+              "role": "user",
+              "content": " revelled in our parliamentAnd made a preachment of your high descent Where are your mess of sons to back you now The wanton Edward and the lusty George And wheres that valiant crookback prodigy Dicky your boy that with his grumbling voice Was wont to cheer his dad in mutinies Or with the rest where is your darling Rutland Look York I stained this napkin with the blood That valiant Clifford with his rapiers point Made issue from the bosom of the boy And if thine eyes can water for his death I give thee this to dry thy cheeks withal Alas poor York but that I hate thee deadly I should lament thy miserable state I prithee grieve to make me merry York Stamp rave and fret that I may sing and dance What hath thy fiery heart so parched thine entrails That not a tear can fall for Rutlands death Why art thou patient man Thou shouldst be mad And I to make thee mad do mock"
+            }
+          ],
+          "model": "mlx-community/Qwen3-4B-4bit",
+          "stream": true,
+          "max_completion_tokens": 100,
+          "stream_options": {
+            "include_usage": true
+          }
+        }
+      ]
+    },
+    {
+      "session_id": "4b789db8-1db4-4569-ba52-70b6aee980ad",
+      "payloads": [
+        {
+          "messages": [
+            {
+              "role": "user",
+              "content": " MISTRESS FORD his wife JOHN Servant to Ford ROBERT Servant to Ford SIR HUGH EVANS a Welsh parson DOCTOR CAIUS a French physician MISTRESS QUICKLY servant to Doctor Caius John RUGBY servant to Doctor Caius SERVANTS to Page c SCENE Windsor and the neighbourhood ACT I SCENE I Windsor Before Pages house Enter Justice Shallow Slender and Sir Hugh Evans SHALLOW Sir Hugh persuade me not I will make a Star Chamber matter of it If he were twenty Sir John Falstaffs he shall not abuse Robert Shallow esquire SLENDER In the county of Gloucester Justice of Peace and Coram SHALLOW Ay cousin Slender and Custalorum SLENDER Ay and Ratolorum too and a gentleman born Master Parson who writes himself Armigero in any bill warrant quittance or obligationArmigero SHALLOW Ay that I do and have done any time these three hundred years SLENDER All his"
+            }
+          ],
+          "model": "mlx-community/Qwen3-4B-4bit",
+          "stream": true,
+          "max_completion_tokens": 100,
+          "stream_options": {
+            "include_usage": true
+          }
+        }
+      ]
+    },
+    {
+      "session_id": "cea6a94a-b73b-4228-ae43-0eb608b9aace",
+      "payloads": [
+        {
+          "messages": [
+            {
+              "role": "user",
+              "content": " and clamour Will be my knell Go play boy play There have been Or I am much deceivd cuckolds ere now And many a man there is even at this present Now while I speak this holds his wife by th arm That little thinks she has been sluicd in s absence And his pond fishd by his next neighbour by Sir Smile his neighbour Nay theres comfort in t Whiles other men have gates and those gates opend As mine against their will Should all despair That hath revolted wives the tenth of mankind Would hang themselves Physic fort theres none It is a bawdy planet that will strike Where tis predominant and tis powerful think it From east west north and south Be it concluded No barricado for a belly Knowt It will let in and out the enemy With bag and baggage Many thousand of us Have the disease and feelt notHow now boy MAMILLIUS I am like you they say LEONTES Why thats some comfort What Camillo there CAM"
+            }
+          ],
+          "model": "mlx-community/Qwen3-4B-4bit",
+          "stream": true,
+          "max_completion_tokens": 100,
+          "stream_options": {
+            "include_usage": true
+          }
+        }
+      ]
+    },
+    {
+      "session_id": "e616586d-8339-401e-8155-51dbbbc64f49",
+      "payloads": [
+        {
+          "messages": [
+            {
+              "role": "user",
+              "content": " that they do When they change us for others Is it sport I think it is And doth affection breed it I think it doth Ist frailty that thus errs It is so too And have not we affections Desires for sport and frailty as men have Then let them use us well else let them know The ills we do their ills instruct us so DESDEMONA Good night good night Heaven me such usage send Not to pick bad from bad but by bad mend Exeunt ACT V SCENE I Cyprus A Street Enter Iago and Roderigo IAGO Here stand behind this bulk Straight will he come Wear thy good rapier bare and put it home Quick quick fear nothing Ill be at thy elbow It makes us or it mars us think on that And fix most firm thy resolution RODERIGO Be near at hand I may miscarry in t IAGO Here at thy hand Be bold and take thy stand Retires to a little distance RODERIGO I have no"
+            }
+          ],
+          "model": "mlx-community/Qwen3-4B-4bit",
+          "stream": true,
+          "max_completion_tokens": 100,
+          "stream_options": {
+            "include_usage": true
+          }
+        }
+      ]
+    },
+    {
+      "session_id": "7285972d-c8b8-44f5-b3cb-0335a487ae02",
+      "payloads": [
+        {
+          "messages": [
+            {
+              "role": "user",
+              "content": " Antony only that would make his will Lord of his reason What though you fled From that great face of war whose several ranges Frighted each other Why should he follow The itch of his affection should not then Have nicked his captainship at such a point When half to half the world opposed he being The mered question Twas a shame no less Than was his loss to course your flying flags And leave his navy gazing CLEOPATRA Prithee peace Enter the Ambassador with Antony ANTONY Is that his answer AMBASSADOR Ay my lord ANTONY The Queen shall then have courtesy so she Will yield us up AMBASSADOR He says so ANTONY Let her knowt To the boy Caesar send this grizzled head And he will fill thy wishes to the brim With principalities CLEOPATRA That head my lord ANTONY To him again Tell him he wears the rose Of youth upon him from which the world should note Something particular his coin"
+            }
+          ],
+          "model": "mlx-community/Qwen3-4B-4bit",
+          "stream": true,
+          "max_completion_tokens": 100,
+          "stream_options": {
+            "include_usage": true
+          }
+        }
+      ]
+    },
+    {
+      "session_id": "db2c1de6-a53c-4a07-b0f5-4c74a50f6577",
+      "payloads": [
+        {
+          "messages": [
+            {
+              "role": "user",
+              "content": " I went to visit her She prayd me to excuse her keeping close Whereto constraind by her infirmity She should that duty leave unpaid to you Which daily she was bound to proffer This She wishd me to make known but our great court Made me to blame in memory CYMBELINE Her doors lockd Not seen of late Grant heavens that which I fear Prove false Exit QUEEN Son I say follow the King CLOTEN That man of hers Pisanio her old servant I have not seen these two days QUEEN Go look after Exit Cloten Pisanio thou that standst so for Posthumus He hath a drug of mine I pray his absence Proceed by swallowing that for he believes It is a thing most precious But for her Where is she gone Haply despair hath seizd her Or wingd with fervour of her love shes flown To her desird Posthumus Gone she is To death or to dishonour and my end Can make"
+            }
+          ],
+          "model": "mlx-community/Qwen3-4B-4bit",
+          "stream": true,
+          "max_completion_tokens": 100,
+          "stream_options": {
+            "include_usage": true
+          }
+        }
+      ]
+    }
+  ]
+}
