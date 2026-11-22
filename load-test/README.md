@@ -126,6 +126,11 @@ Calcolati dai file in `artifacts-video/` (fase di misura, warmup escluso). Una p
 | 1 | 10 | 0,17 | 11,3 | 90,9 |
 | 10 | 40 | 1,04 | 31,2 | 33,1 |
 
+Due note sui numeri:
+
+- `artifacts/riepilogo.csv` calcola il p90 dai singoli record, con un metodo diverso da quello di aiperf. Di solito i due valori differiscono di circa l'1-2% o meno. A 1 utente, con sole 10 richieste, la differenza può essere più grande: per esempio l'ITL del 4B con prompt da 200 token è 30,6 ms in aiperf e 35,6 ms nel CSV. Le tabelle qui sopra usano i valori di aiperf.
+- Ogni prova ha poche richieste (da 10 a 64), quindi rifacendo la misura i numeri cambiano, a volte parecchio. Per esempio l'ITL p90 sul Mac mini M2 è 159,7 ms a 8 utenti nella serie del 14 novembre e 207,3 ms in quella del video. A 10 utenti i due valori sono quasi uguali: 167,3 e 168,6 ms.
+
 ## Licenze
 
 Il codice di questa repo usa la licenza MIT (vedi `LICENSE`). Il modello Qwen ha la sua licenza su Hugging Face: leggila prima di usarlo per altro.
